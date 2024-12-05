@@ -1,4 +1,7 @@
 # OZIPHISH
+<p align="center">
+  <img src="URL_TO_YOUR_IMAGE" alt="DOSS3R Logo" width="300" height="300" style="border-radius: 50%;">
+</p>
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Language](https://img.shields.io/badge/language-VB.NET-purple)
@@ -12,6 +15,14 @@
 **This tool is for educational and research purposes only.** Misuse of this tool may lead to legal consequences. Always obtain proper authorization before using this tool.
 
 ---
+
+
+![Screenshot 2024-12-05 124723](https://github.com/user-attachments/assets/ff0d4bc6-ed88-49fa-a8fb-5e230485514d)
+![Screenshot 2024-12-05 124736](https://github.com/user-attachments/assets/b8a0ec4a-2529-45c6-863c-fad5895d3c30)
+![Screenshot 2024-12-05 124818](https://github.com/user-attachments/assets/f16c7fc6-8fb1-4bdb-8aaf-69de9e16c22a)
+![Screenshot 2024-12-05 124840](https://github.com/user-attachments/assets/ad8f7788-d99e-4741-842c-8e14111ba74a)
+![Screenshot 2024-12-05 124702](https://github.com/user-attachments/assets/b23ee908-a4cd-4874-8e15-184ff324aad7)
+
 
 ## Features
 

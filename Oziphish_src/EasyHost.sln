@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EasyHost", "EasyHost\EasyHost.vbproj", "{A5A6336A-4F11-4999-8324-6CDE0B519721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Debug|x64.ActiveCfg = Debug|x64
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Debug|x64.Build.0 = Debug|x64
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Release|x64.ActiveCfg = Release|x64
+		{A5A6336A-4F11-4999-8324-6CDE0B519721}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC951F65-3AF0-4992-AB97-F454673F29AA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="firstTM" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WebDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nullable</Value>
+    </Setting>
+    <Setting Name="ngrokex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nullable</Value>
+    </Setting>
+    <Setting Name="sounds" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="indexPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="selectedtemp" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="indexfolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="jscode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// this function will be loaded at the page ready state
+function Oziris(){
+         alert("Made by Oziris t.me/OZIRIS_Softs");
+          
+
+
+
+}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

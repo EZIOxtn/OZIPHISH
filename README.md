@@ -1,7 +1,8 @@
 # OZIPHISH
 <p align="center">
-  <img src="URL_TO_YOUR_IMAGE" alt="DOSS3R Logo" width="300" height="300" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/5e5caf60-3a0f-44d3-885f-7b34a8831047" alt="DOSS3R Logo" width="300" height="300" style="border-radius: 50%;">
 </p>
+
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Language](https://img.shields.io/badge/language-VB.NET-purple)

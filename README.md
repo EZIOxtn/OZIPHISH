@@ -7,6 +7,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Language](https://img.shields.io/badge/language-VB.NET-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EZIOxtn.OZIPHISH)
+
 
 **OZIPHISH** is an open-source Windows desktop application written in VB.NET. It is a versatile tool designed for hosting customizable website templates and capturing information such as IP addresses, location data (city, ISP, direction flags), and even a picture from the front camera. With an easy-to-use GUI, OZIPHISH automates hosting over tunnels like Ngrok and Serveo, supports JS injection, and includes a variety of premade templates for quick deployment.
 
